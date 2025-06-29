@@ -1,0 +1,1001 @@
+customer_id,product_name,quantity,unit_price,total_price,purchase_date,sales_rep,payment_method,shipping_address,order_status
+1,Smart Light Bulbs,97,914.52,88708.44,2/5/2023,Leta Nathan,cash,7406 Almo Terrace,delivered
+2,Dried Apricots,21,148.81,3125.01,5/9/2021,Rodrique Simionescu,cash,260 Prentice Point,shipped
+3,Wireless Earbuds Case,50,202.42,10121.0,7/11/2020,Duncan Dixsee,cash,17 Green Plaza,pending
+4,Pumpkin Pancake Mix,77,943.33,72636.41,1/8/2024,Barnaby Hartlebury,check,38 Lawn Junction,delivered
+5,Fridge Magnet Set,66,267.73,17670.18,10/1/2024,Tobi Siehard,credit card,722 Saint Paul Center,delivered
+6,Miso Dressing,48,78.98,3791.04,1/1/2022,Anett Devaney,credit card,39285 Parkside Hill,pending
+7,Chocolate Almond Milk,60,638.77,38326.2,1/26/2023,Diahann Donaway,credit card,897 Red Cloud Drive,delivered
+8,Pressure Washer Accessories Kit,36,823.49,29645.64,1/25/2022,Pablo Parfett,credit card,7 Butterfield Place,pending
+9,Running Shorts,80,655.14,52411.2,3/23/2020,Levey Elgar,cash,70969 Summerview Avenue,pending
+10,Lentils,45,314.14,14136.3,2/1/2021,Shep Burlingame,credit card,24 Vernon Lane,shipped
+11,Personal Blender,93,365.17,33960.81,11/8/2024,Carlos Crake,cash,0 Anhalt Lane,pending
+12,Caribbean Jerk Marinade,83,271.73,22553.59,5/12/2021,Irving Lewerenz,cash,9095 Scofield Way,pending
+13,Lockable Bicycle Chain,48,810.68,38912.64,7/8/2022,Fredric Litt,credit card,94179 Dottie Alley,pending
+14,Peach Green Tea,58,830.49,48168.42,8/20/2021,Agnese Gammon,credit card,11320 Ridgeway Road,shipped
+15,Digital Camera,96,393.56,37781.76,7/24/2022,Fiona Fernez,credit card,8439 Crescent Oaks Center,shipped
+16,Travel Pillow,53,894.48,47407.44,3/14/2022,Boonie Klossek,credit card,9467 Bartelt Avenue,shipped
+17,Sliced Bread,98,658.82,64564.36,7/25/2024,Mala Snasel,credit card,08547 Nova Place,delivered
+18,Digital Meat Thermometer,22,418.17,9199.74,10/4/2020,Giralda Stoller,check,7275 Steensland Circle,delivered
+19,Winter Insulated Jacket,98,464.31,45502.38,12/2/2020,Ringo Harpin,cash,690 Quincy Avenue,shipped
+20,Baked Falafel,30,971.96,29158.8,5/8/2021,Brinn Jelks,credit card,6185 Portage Crossing,pending
+21,Multi-Functional Rice Cooker,3,633.16,1899.48,11/8/2020,Kacie Hulson,credit card,454 La Follette Junction,pending
+22,Dried Cranberries,71,454.24,32251.04,3/27/2022,Forest Burbidge,check,36070 Corben Pass,pending
+23,Instant Mashed Potatoes,66,418.17,27599.22,5/4/2022,Corrie Gammet,cash,6866 Shelley Trail,delivered
+24,USB Wall Charger,48,890.7,42753.6,5/15/2023,Avivah Eudall,cash,37 Anzinger Lane,pending
+25,Leather Biker Jacket,3,649.58,1948.74,1/5/2025,Wright Heatly,credit card,159 5th Place,delivered
+26,Fruit & Nut Trail Mix,71,807.12,57305.52,4/3/2020,Edvard Densumbe,check,457 Corry Point,pending
+27,Red Lentil Pasta,31,62.42,1935.02,4/25/2021,Darcy Blencoe,credit card,96 Lotheville Circle,delivered
+28,Handheld Garment Steamer,36,768.62,27670.32,4/10/2023,Wendi Fevier,credit card,88 Colorado Alley,shipped
+29,Dog Training Whistle,66,713.3,47077.8,10/27/2021,Aurthur Hacquoil,cash,90 Logan Way,pending
+30,Sweet Corn Fritters,50,552.08,27604.0,10/21/2023,Athene Le Pine,cash,3407 Nancy Terrace,pending
+31,Portable Water Filter,15,996.24,14943.6,2/3/2021,Mariann Aucourte,cash,56956 Talmadge Hill,pending
+32,Dark Chocolate Almond Butter Cups,14,912.87,12780.18,5/29/2021,Anstice Stiff,check,6 Schlimgen Alley,shipped
+33,Garden Hose,47,518.25,24357.75,3/2/2025,Tomkin Doley,credit card,095 Gulseth Lane,shipped
+34,Smartphone Camera Lens Kit,89,493.98,43964.22,1/4/2020,Siouxie Dowears,check,11 Packers Junction,pending
+35,Thai Coconut Curry Sauce,93,747.48,69515.64,11/18/2020,Meriel Clementel,check,244 Scott Pass,pending
+36,Organic Blueberries,34,723.11,24585.74,5/26/2020,Dyane Marples,credit card,46604 Mesta Drive,shipped
+37,Wall-Mounted Bookshelf,76,66.4,5046.4,8/12/2020,Elias Drysdell,credit card,73052 Troy Park,shipped
+38,Dish Soap Dispenser,23,274.97,6324.31,5/11/2025,Olag Copnall,cash,47067 Buena Vista Crossing,shipped
+39,Herb Garden Planter Box,74,521.99,38627.26,11/15/2022,Val McIlmorow,cash,67106 Nelson Trail,pending
+40,Portable Bluetooth Speaker,96,723.44,69450.24,6/20/2024,Jerome Burgan,cash,146 Old Shore Trail,delivered
+41,Thai Green Curry Paste,7,139.97,979.79,11/3/2020,Benito Poynton,cash,15 Browning Lane,pending
+42,Running Shorts,36,492.42,17727.12,5/25/2022,Ernesto Postill,credit card,11 Kipling Junction,delivered
+43,Pomegranate Juice,55,63.56,3495.8,1/18/2023,Wendy Stanlike,check,9016 Claremont Terrace,pending
+44,Yoga Wheel,88,129.3,11378.4,6/20/2023,Cinnamon MacAughtrie,credit card,6809 Dwight Park,pending
+45,Tea Infuser,36,442.34,15924.24,12/9/2024,Florinda Drysdell,cash,0194 North Pass,shipped
+46,Beef Stroganoff Mix,73,4.73,345.29,2/5/2025,Doralynn McClary,check,31159 Lerdahl Crossing,pending
+47,Buffalo Cauliflower Wings,84,346.13,29074.92,8/1/2024,Dilan Branthwaite,credit card,17015 Leroy Street,shipped
+48,Chocolate Protein Powder,63,398.84,25126.92,10/19/2024,Guillemette Exall,check,7301 Memorial Terrace,delivered
+49,Freestanding Wine Rack,95,384.63,36539.85,12/22/2023,Cliff Tasseler,cash,35408 Autumn Leaf Junction,pending
+50,Portable Air Conditioner,1,920.69,920.69,7/11/2020,Saundra Djakovic,credit card,6 Manufacturers Avenue,shipped
+51,Denim Jacket,20,481.07,9621.4,10/17/2022,Merrick Malcolm,cash,73 Lindbergh Drive,delivered
+52,Travel Jewelry Case,22,909.85,20016.7,3/3/2020,Tobias Bilbie,cash,67388 Westerfield Place,pending
+53,Mixed Nuts,65,780.35,50722.75,10/11/2021,Kale Dell Casa,cash,02119 Linden Crossing,delivered
+54,Black Bean Spaghetti,71,889.9,63182.9,12/27/2021,Verla Ritchard,credit card,184 Ilene Road,delivered
+55,Portable Dog Water Bottle,82,675.33,55377.06,12/21/2021,Jilli Dunstall,cash,99113 David Alley,delivered
+56,Set of Herb Garden Markers,11,294.47,3239.17,9/12/2020,Jami Beccles,cash,798 Lighthouse Bay Pass,shipped
+57,Air Fryer,54,526.93,28454.22,10/10/2020,Guinna Bansal,cash,9617 Spenser Crossing,pending
+58,Electric Griddle,65,355.93,23135.45,10/19/2020,Lindsay Troy,cash,458 Dwight Drive,shipped
+59,Personalized Cutting Board,96,888.05,85252.8,8/7/2024,Osborne Oswal,cash,9640 Roxbury Junction,pending
+60,Thai Basil Fried Rice,90,8.86,797.4,5/13/2021,Mose Craft,credit card,5 Union Pass,pending
+61,Utility Cargo Pants,2,396.99,793.98,5/28/2023,Rhona Tallant,credit card,2 Ruskin Plaza,shipped
+62,Portable Dog Water Bottle,95,397.57,37769.15,12/22/2023,Florian Ruger,check,3 Green Ridge Circle,pending
+63,Tactical Backpack,73,125.05,9128.65,7/10/2021,Ellerey Capinetti,cash,2766 Monica Trail,shipped
+64,Eco-Friendly Beeswax Wraps,88,204.74,18017.12,9/15/2024,Hamel Clatworthy,cash,94920 Norway Maple Center,shipped
+65,Magnetic Whiteboard,29,206.45,5987.05,12/3/2020,Vaughan Di Lucia,check,4912 Hermina Court,pending
+66,Spicy Thai Noodles,72,25.45,1832.4,11/26/2022,Huntley Edwardes,cash,600 North Pass,shipped
+67,Canvas Tote Bag,72,450.41,32429.52,4/23/2023,Cleve Maytum,credit card,944 Little Fleur Way,pending
+68,USB Wall Charger,52,621.23,32303.96,5/24/2025,Haily Panniers,check,7 Talisman Street,pending
+69,Electric Butter Churn,77,916.47,70568.19,5/29/2023,Ewart Mil,credit card,1041 5th Avenue,pending
+70,Frozen Salmon Filets,26,100.32,2608.32,10/19/2024,Brady Placidi,credit card,620 Butterfield Place,pending
+71,Teriyaki Chicken Skewers,63,963.23,60683.49,1/6/2021,Rasia Henighan,credit card,11559 Maple Wood Avenue,delivered
+72,Snap-On Tupperware Set,45,819.11,36859.95,8/7/2020,Whit Taylor,check,44 Di Loreto Court,shipped
+73,Feta Cheese,60,351.08,21064.8,9/12/2023,Jodi Maffetti,check,39 Old Shore Lane,pending
+74,Coconut Curry Sauce,43,287.14,12347.02,7/26/2023,Kerrill Ribou,cash,2 Nevada Lane,pending
+75,Classic Watch,1,487.42,487.42,6/2/2022,Carlin McGarrity,cash,03274 Dixon Parkway,pending
+76,Magnetic Spice Containers,17,64.53,1097.01,2/17/2024,Sergent Lorenz,check,3183 Charing Cross Street,delivered
+77,Garden Vegetable Soup,4,467.22,1868.88,6/25/2021,Elinor Vest,credit card,841 Norway Maple Street,shipped
+78,Coconut Milk Yogurt,6,784.54,4707.24,6/24/2022,Levey Anthes,cash,49068 Ronald Regan Lane,pending
+79,Canvas Wall Art,36,37.09,1335.24,9/11/2022,Conant Basini-Gazzi,cash,92 Lyons Court,pending
+80,Portable SSD,37,553.31,20472.47,8/18/2022,Elianora Crop,credit card,816 Hansons Road,pending
+81,Creamy Avocado Dip,33,336.65,11109.45,1/27/2023,Erica Nourse,check,993 Prentice Alley,pending
+82,Pita Bread,25,644.03,16100.75,3/10/2022,Gisele Trengove,check,787 Ryan Plaza,shipped
+83,Electric Air Pump,84,493.02,41413.68,10/29/2020,Quincy Grealey,credit card,65530 Norway Maple Junction,shipped
+84,Water Bottle with Built-in Fruit Infuser,56,670.5,37548.0,2/23/2024,Beck Paulsson,credit card,34 Stoughton Place,pending
+85,Children's Art Set,80,225.78,18062.4,4/1/2023,Gav Menear,credit card,6449 Golden Leaf Park,shipped
+86,Cocktail Shaker Set,64,58.4,3737.6,1/21/2021,Karita Drover,credit card,07764 Birchwood Road,shipped
+87,Car Diagnostic Scanner,73,392.13,28625.49,1/30/2023,Georgeanna Gutch,cash,32 Anzinger Plaza,pending
+88,Mesh Laundry Bags Set,86,556.46,47855.56,6/15/2025,Walt Jensen,check,02487 Old Gate Parkway,shipped
+89,Camping Tarp,89,499.18,44427.02,10/31/2022,Orly Dibsdale,check,55 Anniversary Court,delivered
+90,Insulated Lunch Box,8,957.52,7660.16,12/12/2024,Elsworth Risby,cash,6173 Cardinal Alley,shipped
+91,Camping Lantern,79,322.9,25509.1,7/3/2022,Natasha Boniface,credit card,1878 Shelley Alley,delivered
+92,Baby Safety Corner Guards,13,532.71,6925.23,6/19/2020,Trescha Konrad,cash,07134 Crownhardt Junction,delivered
+93,Mediterranean Chickpea Bowl,90,142.52,12826.8,5/8/2023,Brandie Elt,credit card,8403 Kings Place,shipped
+94,Inspirational Wall Art,23,116.75,2685.25,8/1/2022,Jacquelyn Burbage,credit card,33 Donald Crossing,pending
+95,Salt and Pepper Grinder Set,88,415.95,36603.6,6/7/2021,Julius Kryzhov,check,8 Rowland Plaza,shipped
+96,Travel Sewing Kit,58,30.9,1792.2,5/9/2022,Wilhelmine Gunnell,cash,99826 Manufacturers Alley,delivered
+97,Rechargeable Electric Toothbrush,7,120.5,843.5,5/10/2024,Chris McRinn,check,04 Orin Court,pending
+98,Luxe Velvet Blazer,2,536.13,1072.26,12/11/2024,Delmar Crossdale,cash,2190 Sherman Park,pending
+99,Essential Oil Roller Bottles,18,547.39,9853.02,1/17/2024,Alfy Wiffler,credit card,12 Independence Circle,shipped
+100,Wooden Children's Play Kitchen,99,652.31,64578.69,11/11/2022,Edgar Clother,check,86726 Northfield Crossing,shipped
+101,Roasted Garlic Butter,27,710.74,19189.98,6/16/2023,Annabel Benns,cash,0247 Lakeland Point,delivered
+102,Mango Chia Pudding,61,934.84,57025.24,11/14/2020,Hermione Arnaudet,check,77 Warbler Lane,shipped
+103,Quinoa & Black Bean Salad,17,371.18,6310.06,11/27/2022,Vivianne Aldridge,check,408 Crescent Oaks Point,pending
+104,Whole Grain Hamburger Buns,14,461.11,6455.54,6/23/2022,Burch Ondrousek,check,56976 Thompson Court,delivered
+105,Vegetable Broth,71,608.57,43208.47,3/2/2024,Kore Cullinane,credit card,847 Scofield Park,pending
+106,Set of Gardening Gloves with Claws,18,928.36,16710.48,12/26/2022,Alvy Clows,check,2 Bunting Court,pending
+107,Lightweight Travel Backpack,78,124.82,9735.96,12/12/2023,Andros McGeady,credit card,6268 Mallard Plaza,shipped
+108,Honey Lemon Tea,6,598.83,3592.98,11/30/2020,Corissa Grennan,cash,8 Starling Point,pending
+109,Cordless Electric Screwdriver,7,397.98,2785.86,9/26/2024,Rey Leas,credit card,5 Eastwood Circle,pending
+110,Mini Indoor Herb Garden Kit,33,656.28,21657.24,5/25/2025,Victoir Senecaut,check,697 East Plaza,shipped
+111,Pet Grooming Scissors,20,428.55,8571.0,1/6/2021,Ambrosio Wharfe,cash,3 Gina Hill,pending
+112,Organic Brown Rice Cakes,53,128.39,6804.67,5/15/2020,Candide Herety,check,4 Evergreen Parkway,pending
+113,Portable Hammock with Stand,79,612.06,48352.74,10/14/2024,Charil Ivanyushin,cash,66 Bluejay Road,pending
+114,Dried Cranberries,82,458.04,37559.28,12/3/2020,Agata Durtnel,credit card,831 Lighthouse Bay Plaza,shipped
+115,Rainbow Veggie Chips,72,539.34,38832.48,4/30/2023,Keith Ceschelli,credit card,48242 Tennyson Park,shipped
+116,Artisan Flatbreads,21,875.74,18390.54,10/6/2020,Erskine Hentzer,check,52818 Rigney Center,delivered
+117,Yoga Strap,30,138.05,4141.5,2/13/2020,Nikoletta Machen,credit card,1 Welch Way,pending
+118,Almond Butter,51,605.91,30901.41,6/16/2023,Vergil Haighton,cash,9 Brentwood Alley,delivered
+119,Maple Bacon Jerky,43,108.78,4677.54,2/24/2024,Deny Kerswell,check,1 Eagle Crest Plaza,delivered
+120,Bamboo Cutting Board Set,6,193.43,1160.58,11/25/2023,Jorry Yaneev,credit card,0 Tennyson Avenue,shipped
+121,Classic Pesto Sauce,2,205.01,410.02,4/1/2020,Justine Tunnick,check,90668 Vahlen Alley,shipped
+122,Canvas Tote Bag,80,183.09,14647.2,4/3/2025,Nikolos Vatini,cash,3036 Calypso Place,delivered
+123,Teriyaki Salmon Fillets,89,319.43,28429.27,2/22/2025,Obed Chawner,credit card,37 Pawling Crossing,pending
+124,Travel Yoga Mat,22,833.83,18344.26,10/30/2020,Maggie Ruggiero,check,4 Nobel Drive,pending
+125,Poppy Seed Dressing,33,211.96,6994.68,9/2/2020,Hildagarde Slides,cash,1 Steensland Place,shipped
+126,Handheld Vacuum,53,445.74,23624.22,4/9/2021,Carver Biddle,check,3 Sheridan Lane,delivered
+127,Cordless Electric Screwdriver,82,119.85,9827.7,2/5/2023,Terese De Domenico,check,4516 Fordem Junction,shipped
+128,Overnight Duffle Bag,72,214.25,15426.0,9/29/2022,Sarita Aitchison,credit card,28 Meadow Valley Court,delivered
+129,Chocolate Mint Thins,82,755.55,61955.1,12/7/2023,Cinderella Astbury,check,28509 Mayer Court,shipped
+130,Utility Cargo Pants,6,38.8,232.8,2/15/2025,Ania Guise,cash,964 Burning Wood Pass,shipped
+131,Chipotle Sauce,27,662.58,17889.66,4/25/2024,Jerri Poveleye,credit card,7034 Golden Leaf Avenue,delivered
+132,Honey Roasted Chickpeas,24,723.64,17367.36,6/11/2023,Alfreda Toretta,check,2 Quincy Way,shipped
+133,Dark Chocolate Tart,80,678.19,54255.2,12/23/2022,Karel Shave,check,83935 American Ash Drive,delivered
+134,Electric Food Steamer,27,228.36,6165.72,2/18/2024,Alfy todor,credit card,7112 Morrow Junction,delivered
+135,Wine Decanter,30,521.32,15639.6,8/28/2022,Aldric Northway,cash,00372 Bonner Point,shipped
+136,Insulated Cooler,73,914.79,66779.67,9/8/2023,Gerhardine Prall,check,4383 Lakewood Gardens Hill,shipped
+137,Vegetable Samosas,45,664.42,29898.9,6/11/2025,Ellene Woolway,cash,749 Fairview Terrace,pending
+138,Travel Orthopedic Pillow,49,810.6,39719.4,7/16/2020,Amos Ivankovic,check,5666 Pond Way,pending
+139,Organic Tomato Ketchup,71,627.9,44580.9,12/7/2022,Vivyan Genery,credit card,26 Northwestern Trail,pending
+140,Sea Salt Tortilla Chips,7,199.02,1393.14,8/4/2022,Yehudit Thomassin,credit card,9164 Artisan Center,shipped
+141,Non-Stick Grill Pan,61,538.44,32844.84,1/24/2021,Leif Bandy,credit card,0690 Elmside Lane,delivered
+142,Cinnamon Sugar Donuts,75,418.23,31367.25,3/6/2024,Miranda De Angelis,credit card,92 Daystar Alley,shipped
+143,Two-Tone Windbreaker,71,501.88,35633.48,8/26/2022,Mark Tamplin,cash,03 Hauk Crossing,pending
+144,Puzzle Game Set,19,561.5,10668.5,1/14/2021,Francois Loakes,cash,15711 Brickson Park Lane,pending
+145,Wireless Induction Charger,36,117.57,4232.52,11/29/2024,Maryrose Harold,cash,1442 Sunbrook Park,pending
+146,Electric Kettle with Temperature Control,33,397.87,13129.71,6/24/2024,Myrlene Tethacot,check,44 Magdeline Trail,pending
+147,Smart Water Bottle,37,721.35,26689.95,9/29/2022,Reeba Melchior,credit card,37 Bartelt Street,shipped
+148,Samoas Cookie Mix,62,67.87,4207.94,5/6/2024,Tedie Moffatt,check,7976 Delladonna Crossing,shipped
+149,Travel Mug with Leak-Proof Lid,95,450.28,42776.6,3/2/2023,Deane Cunnah,check,4 Reinke Parkway,delivered
+150,Mini Projector for Smartphones,35,197.75,6921.25,12/5/2021,Lalo Schoffler,credit card,8154 Moose Plaza,shipped
+151,Educational STEM Kit,54,825.42,44572.68,2/1/2023,Morley Tschirschky,credit card,9 La Follette Court,delivered
+152,Pesto Pasta Sauce,38,880.3,33451.4,6/26/2023,Johna Olechnowicz,cash,862 Moland Plaza,delivered
+153,Portable Bluetooth Speaker,21,735.12,15437.52,10/19/2024,Josselyn Lalley,cash,37 Carioca Street,pending
+154,Microfiber Cleaning Cloths,95,9.72,923.4,3/10/2021,Darya Petrashkov,check,1 Dixon Court,delivered
+155,Olive Oil,40,706.58,28263.2,8/28/2024,Theodoric Blomefield,credit card,31 Golf Course Way,pending
+156,Wireless Charging Station,20,846.51,16930.2,5/30/2024,Frants Tremellan,check,451 Bellgrove Way,pending
+157,Wireless Printer,77,702.72,54109.44,7/24/2023,Gottfried Eakle,check,39 Northfield Crossing,pending
+158,Greek Feta Cheese,78,609.86,47569.08,1/24/2020,Hurlee Danelutti,check,52506 Kropf Drive,pending
+159,Blackberry Compote,6,769.85,4619.1,11/3/2020,Had Joannic,cash,88525 Scofield Plaza,delivered
+160,Chocolate Chip Muffins,50,979.0,48950.0,10/14/2023,Papagena Margetts,credit card,28248 Eastwood Hill,delivered
+161,Adjustable Bar Stools,18,64.46,1160.28,1/9/2022,Rorie Azemar,credit card,1 Jana Point,shipped
+162,Vintage Graphic Tee,5,604.66,3023.3,12/1/2020,Feodor Klimuk,credit card,4 Washington Way,delivered
+163,Strawberry Rhubarb Jam,52,560.04,29122.08,8/25/2020,Loren Cumber,credit card,97 Northland Way,shipped
+164,Oven Thermometer,30,496.03,14880.9,2/12/2022,Cherilynn Halsey,cash,39774 Fremont Park,shipped
+165,Protein Bar Variety Pack,12,656.4,7876.8,9/26/2023,Linn Gehricke,credit card,73 Cambridge Road,shipped
+166,Whisk Set,19,300.74,5714.06,1/6/2023,Kesley Redan,check,9 Upham Circle,delivered
+167,Stainless Steel Cutlery Set,35,715.46,25041.1,4/16/2025,Daven MacCarrick,check,21602 Sugar Crossing,delivered
+168,Gluten-Free Bread,98,24.34,2385.32,10/8/2021,Kendricks Simao,check,01721 Kropf Junction,delivered
+169,Maple Glazed Carrots,57,661.77,37720.89,12/26/2022,Cad Ghidetti,credit card,0005 South Drive,pending
+170,Bluetooth Headphones,21,328.94,6907.74,2/26/2022,Valene Rimell,credit card,853 Luster Alley,pending
+171,Almond Coconut Granola,6,822.37,4934.22,10/16/2020,Eada Posen,cash,26 Cherokee Plaza,pending
+172,Organic Sweet Potatoes,99,818.89,81070.11,7/26/2022,Lea Lugton,cash,43 Jana Parkway,pending
+173,Granola,28,893.01,25004.28,8/16/2023,Elliot Bandy,cash,01181 Ridgeview Way,delivered
+174,Portable Bluetooth Speaker,41,502.41,20598.81,5/25/2023,Salmon Aberhart,credit card,7 Grover Terrace,pending
+175,Crispy Chickpeas,80,970.09,77607.2,11/27/2024,Galen Wishart,credit card,4 Ludington Terrace,pending
+176,Set of Measuring Spoons,98,743.17,72830.66,6/9/2024,Elizabeth Poser,credit card,4778 Everett Junction,shipped
+177,Chili Powder,57,80.54,4590.78,4/4/2020,Gordon Jonczyk,credit card,001 Chinook Trail,pending
+178,Tailgating Set,48,598.02,28704.96,8/6/2024,Sheri Fellibrand,check,586 Arapahoe Alley,delivered
+179,Herb Garden Planter Box,70,703.32,49232.4,8/3/2024,Robert Juggings,cash,88 Fair Oaks Hill,pending
+180,Travel Pillow with Memory Foam,9,88.07,792.63,3/14/2022,Spike Charpin,credit card,7961 Barby Place,pending
+181,Car Windshield Sun Shade,72,424.34,30552.48,3/15/2023,Sandy Skippon,cash,45 Milwaukee Avenue,shipped
+182,Kids' Building Blocks,10,860.38,8603.8,1/29/2024,Marrilee Guilford,cash,9424 Dorton Plaza,pending
+183,Carrot Sticks,64,874.75,55984.0,12/30/2023,Jacinda Muscott,cash,8 Lunder Avenue,delivered
+184,Bamboo Bathtub Caddy,81,467.66,37880.46,8/21/2020,Yehudi Probbing,credit card,6313 Anzinger Way,pending
+185,Air Mattress,61,879.02,53620.22,4/20/2021,Kimball Garthside,check,5 Sundown Street,pending
+186,Carrot Ginger Soup,59,247.18,14583.62,4/12/2022,Arnold Gantley,check,74451 Kim Street,pending
+187,Cooking Utensil Set,8,533.44,4267.52,10/6/2021,Deirdre Jarmain,cash,61743 Rowland Avenue,shipped
+188,Whisk Set,16,917.4,14678.4,1/9/2022,Gerianne Paulou,cash,2 Beilfuss Terrace,shipped
+189,Non-Stick Baking Sheets,79,706.75,55833.25,12/24/2024,Franny Marioneau,cash,7 Barnett Street,shipped
+190,Basmati Rice,46,894.64,41153.44,7/16/2024,Billy Hancock,credit card,4 Kingsford Lane,delivered
+191,Marinara Parmesan Baked Ziti,57,396.79,22617.03,4/5/2025,Davina Vyvyan,check,45731 Harbort Way,pending
+192,Stick Vacuums Cleaner,14,479.15,6708.1,2/22/2022,Mannie Souster,check,9254 Northland Alley,delivered
+193,Sketchbook,21,757.56,15908.76,4/5/2024,Meghan Voas,cash,125 Mendota Point,pending
+194,Personalized Cutting Board,34,816.3,27754.2,9/24/2022,Levi Saiger,cash,7 Jana Pass,pending
+195,Puzzle,1,154.95,154.95,12/1/2020,Lorne Cherry Holme,check,7 Pierstorff Way,delivered
+196,Classic BBQ Sauce,40,188.16,7526.4,9/22/2023,Martha Biesinger,credit card,42449 Stephen Street,delivered
+197,LED Christmas Lights,5,131.72,658.6,1/16/2021,Lewie Pocke,cash,204 Mariners Cove Park,shipped
+198,Wrist Support Brace,13,646.79,8408.27,7/17/2020,Staffard Mixture,cash,84 Lillian Junction,shipped
+199,Heat-Resistant Silicone Mat,12,223.45,2681.4,5/22/2024,Leora Beare,cash,1950 Thackeray Lane,shipped
+200,Warm Knit Beanie,51,322.48,16446.48,6/20/2022,Loella Auden,check,1461 Springview Drive,shipped
+201,Pet First Aid Kit,99,387.94,38406.06,3/3/2021,Tatum Mozzi,credit card,05 Morning Place,delivered
+202,Nut Butter Cups,43,385.45,16574.35,1/4/2024,Thorpe Bayly,check,42129 Goodland Point,delivered
+203,Thermostatic Shower Valve Kit,42,426.0,17892.0,4/26/2023,Rhetta Johann,credit card,372 Dorton Place,shipped
+204,Heated Throw Blanket,25,423.42,10585.5,1/18/2025,Rea Auden,check,4115 Jenifer Drive,shipped
+205,Reversible Swimming Pool Lounger,68,168.44,11453.92,10/10/2020,Ginnifer Le Huquet,cash,9 Moulton Crossing,pending
+206,Dog Training Collar,59,70.35,4150.65,4/22/2020,Pammi Trett,cash,8746 Ridgeview Road,pending
+207,Vegetable Korma,25,530.51,13262.75,12/5/2020,Nydia Axup,credit card,8611 Sherman Parkway,pending
+208,Beef Sirloin Steak,29,995.44,28867.76,5/6/2022,Johnna Gopsell,credit card,7 Red Cloud Plaza,pending
+209,Peach Mango Smoothie Mix,31,641.51,19886.81,4/6/2025,Elli Dorran,credit card,60406 Kennedy Street,delivered
+210,Aged White Cheddar Popcorn,39,197.02,7683.78,11/25/2023,Wallie Gresch,cash,8 Lighthouse Bay Parkway,pending
+211,Sliced Provolone Cheese,41,180.52,7401.32,10/28/2021,Lacie Minghetti,check,47 Marquette Place,delivered
+212,Spicy Chicken Wings,55,601.04,33057.2,2/21/2025,Marje Briance,credit card,5 Blackbird Hill,shipped
+213,Canvas Wall Art,58,415.77,24114.66,7/9/2022,Desiri Blakebrough,cash,7564 Prairieview Way,delivered
+214,Corn Tortillas,60,922.76,55365.6,12/26/2023,Wilfrid Debow,cash,72 Nova Junction,delivered
+215,Portable Ice Maker,37,33.02,1221.74,11/23/2023,Tabbie Ruby,check,6873 Cardinal Parkway,delivered
+216,Dark Chocolate Almond Butter Cups,17,19.23,326.91,2/17/2023,Sherwynd Sixsmith,cash,0147 Everett Trail,shipped
+217,Phone Screen Protector,19,59.37,1128.03,10/24/2020,Ashil Saffle,check,294 Merchant Center,shipped
+218,Electrolyte Water Bottle,49,279.91,13715.59,9/15/2023,Ives Gaunter,cash,58 Algoma Court,pending
+219,Essential Oils Diffuser Necklace,55,88.25,4853.75,1/20/2025,Leesa Brushfield,credit card,30 Straubel Court,shipped
+220,Travel Yoga Mat,3,207.29,621.87,5/14/2022,Ellissa Yanyshev,check,0009 Randy Center,delivered
+221,Flavored Rice Cakes,51,197.77,10086.27,10/3/2020,Godfree Cosser,check,08240 Shopko Avenue,pending
+222,Car Windshield Sun Shade,18,809.63,14573.34,9/11/2022,Tim Balharry,credit card,29 Havey Terrace,delivered
+223,Peanut Butter Chocolate Chip Bars,98,77.98,7642.04,9/30/2023,Alameda Eard,cash,26614 Manitowish Pass,shipped
+224,Travel Hair Straightener,61,760.45,46387.45,4/29/2021,Jeannine Halpin,cash,4523 Lillian Trail,delivered
+225,Coconut Milk Yogurt,96,46.61,4474.56,11/14/2024,Delcina Bails,cash,5142 Becker Court,pending
+226,Tennis Racket,32,344.33,11018.56,2/18/2025,Arnuad Balharrie,check,04 Golf Street,shipped
+227,Leather Notebook Cover,51,844.8,43084.8,12/22/2021,Skip Buntin,check,32 Manufacturers Hill,pending
+228,Mini Waffle Maker,37,60.49,2238.13,11/14/2024,Jillian Newdick,check,10553 Mayer Point,shipped
+229,Sweet Potato Tots,69,301.69,20816.61,5/17/2023,Keith Schenfisch,check,8 East Street,shipped
+230,Strawberry Fruit Spread,23,497.38,11439.74,3/1/2022,Scott Bulle,cash,51648 Summit Junction,shipped
+231,Creamy Tomato Basil Soup,39,19.13,746.07,3/8/2020,Kimbell Gherardini,credit card,961 Kings Terrace,shipped
+232,Honey Sesame Chicken,31,971.27,30109.37,5/27/2025,Lorene Di Iorio,credit card,6533 Moulton Road,pending
+233,Outdoor Camping Lantern,77,656.99,50588.23,12/10/2024,Tessi Winkett,credit card,6 Ludington Road,pending
+234,Plant-Based Protein Bars,49,828.72,40607.28,5/8/2023,Latashia Ayce,check,9514 Mcbride Center,shipped
+235,Savory Breakfast Sausage,19,747.53,14203.07,7/21/2021,Guillemette Lawty,credit card,4 Havey Terrace,delivered
+236,Frozen Salmon Filets,3,539.98,1619.94,10/27/2020,Thibaud Strutley,credit card,62 Donald Center,delivered
+237,Portable Air Compressor,59,995.76,58749.84,12/14/2020,Melicent Gerrelts,credit card,14 Annamark Drive,delivered
+238,Garlic Breadsticks,99,877.38,86860.62,4/25/2020,Jerrine Ekkel,check,3 Saint Paul Trail,shipped
+239,Cookbook,1,772.4,772.4,10/2/2022,Charlotte Varian,credit card,8 Haas Drive,delivered
+240,Rice Pudding,67,856.98,57417.66,4/27/2023,Michel Castellanos,credit card,623 Crownhardt Road,shipped
+241,Italian Herbal Seasoning,88,168.84,14857.92,11/3/2020,Aloin Adamo,check,52763 Mitchell Parkway,pending
+242,Rustic Italian Breads,61,124.98,7623.78,2/6/2022,Casey Greep,credit card,06720 Dunning Center,delivered
+243,Stainless Steel Cutlery Set,48,25.8,1238.4,6/23/2023,Anetta Van der Hoeven,credit card,1343 Schiller Avenue,pending
+244,Ceramic Non-Stick Frying Pan,49,200.29,9814.21,4/20/2021,Callida Rickman,check,83 Oak Park,pending
+245,Golf Putting Green,63,37.88,2386.44,4/29/2025,Lucina Ramberg,credit card,89 5th Parkway,delivered
+246,Mini Cordless Vacuum Cleaner,74,524.76,38832.24,7/2/2020,Barbe Hotson,credit card,6 Kipling Parkway,pending
+247,Potato Wedge Seasoning,80,827.82,66225.6,6/23/2022,Caresa Claussen,cash,85 Dayton Place,pending
+248,Tropical Fruit Bowl,96,568.58,54583.68,10/7/2023,Christen Gilbody,credit card,9227 Valley Edge Center,shipped
+249,Mixed Berry Smoothie Pack,59,320.65,18918.35,9/14/2021,Welsh Taleworth,cash,1953 Magdeline Circle,shipped
+250,Key Finder,14,114.51,1603.14,5/12/2023,Gabey Abbes,cash,9331 Kim Place,shipped
+251,Energy Bites,92,12.91,1187.72,4/22/2023,Forrest Lauks,check,693 Meadow Ridge Parkway,delivered
+252,Gaming Mousepad,52,850.31,44216.12,3/22/2021,Frasco Duxfield,credit card,95322 Oak Court,delivered
+253,Canned Coconut Milk,51,325.86,16618.86,6/23/2023,Lester Goodday,check,588 Kinsman Terrace,shipped
+254,Multi-Function Meat Tenderizer,65,84.67,5503.55,3/7/2020,Bonita Scopyn,check,938 Pennsylvania Hill,delivered
+255,Herbed Chicken Breast,12,422.46,5069.52,1/10/2023,Shawnee Few,credit card,95 Thompson Hill,pending
+256,Window A/C Unit,22,680.21,14964.62,3/6/2025,Rebecca Noriega,check,0 Lakeland Trail,pending
+257,Mixed Nuts,83,416.22,34546.26,1/3/2022,Sonia Falla,cash,25 Fuller Court,pending
+258,Compact Folding Table,37,539.18,19949.66,12/24/2023,Dusty Maharey,credit card,15101 Mayfield Park,pending
+259,USB Flash Drive,29,833.21,24163.09,1/3/2020,Othilie Mattussevich,credit card,17524 Sutherland Drive,pending
+260,Organic Granola,23,299.0,6877.0,7/4/2024,Wylie Bidewel,cash,0233 Victoria Park,pending
+261,Mediterranean Flatbread,96,142.87,13715.52,1/12/2020,Calvin Topling,cash,44 Magdeline Trail,delivered
+262,Adjustable Yoga Mat Strap,36,810.43,29175.48,9/22/2021,Joella Stock,credit card,5 Aberg Parkway,shipped
+263,Insulated Wine Tote,73,606.08,44243.84,1/28/2022,Nettie Rannells,cash,19 Meadow Valley Court,delivered
+264,Walnut Halves,26,463.24,12044.24,5/9/2022,Dosi Witz,credit card,57 Bayside Alley,pending
+265,Premium Flashlight,83,891.25,73973.75,11/30/2022,Dagmar Galier,cash,350 Knutson Parkway,shipped
+266,Wireless HDMI Receiver,53,796.67,42223.51,9/20/2021,Ibbie Whybrow,credit card,83 Aberg Place,delivered
+267,Chicken Fajita Kit,89,914.03,81348.67,10/4/2022,Saree Tatum,cash,907 Karstens Drive,shipped
+268,Black Olives,21,951.99,19991.79,10/28/2021,Leila Bonaire,check,16 Hallows Court,shipped
+269,Rolling Cooler,74,601.78,44531.72,11/7/2020,Trista Lethibridge,credit card,90 Reinke Lane,delivered
+270,Compact Digital Camera,100,647.36,64736.0,7/27/2024,Katrina Capaldo,check,66 3rd Pass,delivered
+271,Bamboo Cotton Tank Top,21,861.74,18096.54,11/16/2023,Hamilton Brightman,cash,18 Sunbrook Parkway,delivered
+272,Outdoor Camping Lantern,67,199.82,13387.94,2/19/2021,Gregg Audrey,credit card,6 Shoshone Parkway,pending
+273,Thyme,70,868.44,60790.8,4/1/2021,Woodrow Wace,check,25 Vera Point,shipped
+274,Spicy Vegetable Sushi Rolls,23,614.38,14130.74,9/7/2021,Beatrix Aspinal,credit card,9374 Basil Plaza,delivered
+275,Collapsible Folding Chair,27,759.27,20500.29,3/12/2022,Phaedra Earengey,cash,54862 Village Green Trail,shipped
+276,Smoky BBQ Jackfruit,66,894.03,59005.98,3/8/2020,Waverly Fronek,credit card,37427 Forest Run Terrace,pending
+277,Pest Control Traps,30,298.83,8964.9,3/20/2021,Clem Carlisle,credit card,2399 Summerview Lane,shipped
+278,Almond Milk,1,733.29,733.29,2/11/2020,Codee Teek,cash,8 Express Terrace,shipped
+279,Fruit and Nut Energy Bites,33,364.63,12032.79,4/6/2023,Jaime Zecchinii,credit card,6871 Holy Cross Place,shipped
+280,Butternut Squash Ravioli,4,402.25,1609.0,8/1/2023,Cory Blaney,credit card,99 Warner Drive,shipped
+281,Almond Butter,63,540.69,34063.47,11/26/2022,Kit Newsome,check,4 Melby Street,delivered
+282,Ginger Tea,36,826.63,29758.68,7/6/2024,Candide Bellfield,cash,4 Dixon Parkway,pending
+283,Bamboo Utensil Holder,22,174.77,3844.94,4/20/2021,Brenden Snowball,credit card,2 Eagan Point,delivered
+284,Travel Size Toiletry Bottles,25,331.19,8279.75,11/24/2023,Hailee Pitone,check,3038 Nevada Pass,delivered
+285,French Bread,95,924.46,87823.7,5/10/2023,Dew Weare,check,9 Mayfield Street,pending
+286,Pumpkin Pancake Mix,98,270.91,26549.18,8/4/2021,Karlene Spelwood,cash,0868 Chive Hill,shipped
+287,Cranberry Almond Granola,30,344.6,10338.0,10/1/2020,Austin Prendergrass,credit card,7331 Mcguire Road,pending
+288,Italian Marinara Sauce,5,364.16,1820.8,5/21/2024,Hebert Ivachyov,cash,7 Warbler Avenue,shipped
+289,Portable Pet Pooper Scooper,96,993.49,95375.04,5/22/2023,Janith Chadwyck,check,69348 Myrtle Way,delivered
+290,Beef Jerky,8,315.9,2527.2,9/13/2023,Stearn Payne,credit card,121 Eastlawn Way,delivered
+291,Orange Ginger Vinaigrette,15,147.27,2209.05,5/22/2021,Laurice Brookbank,credit card,31839 Messerschmidt Way,pending
+292,Chickpea Salad,41,429.71,17618.11,11/12/2020,Georgina Mathen,check,49109 Ohio Court,delivered
+293,Peach & Mango Salsa,64,386.73,24750.72,1/22/2020,Reeta Ferras,cash,728 Green Lane,shipped
+294,Nordic Berry Smoothie,17,855.8,14548.6,1/27/2025,Wallie Verrico,check,5 Maywood Terrace,delivered
+295,Sweet and Sour Sauce,34,829.52,28203.68,3/27/2024,Sophey Hannah,check,3 Valley Edge Terrace,delivered
+296,Inflatable Party Cooler,65,542.37,35254.05,10/22/2020,Blanche Bonds,cash,6147 Oxford Way,delivered
+297,Inspirational Wall Art,74,800.52,59238.48,10/15/2022,Umeko Jumel,cash,2955 Shasta Alley,pending
+298,Lemon Herb Chicken,41,600.41,24616.81,10/29/2022,Edouard Alliband,check,0733 Claremont Park,delivered
+299,Kids' Art Supplies Kit,68,524.9,35693.2,9/13/2023,Gwen Kroon,credit card,9828 Kim Place,pending
+300,Sketchbook,87,18.73,1629.51,2/2/2024,Alfred Piddlehinton,cash,7 Ramsey Place,pending
+301,Foot Massager,17,446.22,7585.74,11/23/2023,Casar Verdy,check,6 Westerfield Park,pending
+302,Multi-Layer Food Steamer,91,260.58,23712.78,9/5/2023,Karlen Masdon,check,49522 Northridge Drive,pending
+303,Pet Travel Backpack Carrier,93,690.79,64243.47,8/19/2024,Maegan Pattemore,check,210 Pearson Terrace,pending
+304,Digital Voice Recorder,76,637.97,48485.72,10/8/2021,Marinna Eberdt,cash,826 Farragut Parkway,pending
+305,Low-Fat Cottage Cheese,13,33.87,440.31,5/18/2020,Morena Liddle,cash,427 Westport Center,delivered
+306,Hiking Gaiters,64,794.03,50817.92,4/14/2021,Guinna Bottomer,check,1506 Hazelcrest Court,pending
+307,Mushroom Soup (canned),43,389.06,16729.58,2/19/2022,Verla Garrioch,check,92583 Kropf Way,delivered
+308,Reversible Comforter Set,65,731.91,47574.15,7/31/2021,Rosana Fossey,credit card,3797 Red Cloud Hill,shipped
+309,Blackberry Jam,17,580.53,9869.01,1/28/2022,Johnathan Thorneley,check,36 Bellgrove Hill,pending
+310,Creamy Ranch Dressing,87,678.2,59003.4,9/14/2024,Joane Sacher,credit card,6686 Annamark Alley,shipped
+311,Smart Home Hub,34,540.05,18361.7,7/28/2023,Bobbe Churcher,credit card,72 Montana Point,pending
+312,Rice Pudding,59,479.66,28299.94,3/15/2025,Seamus Algate,credit card,3340 Carey Road,shipped
+313,Handheld Vacuum,56,424.57,23775.92,8/17/2020,Laurent Tewkesberrie,credit card,72146 Union Alley,pending
+314,Ribbed Knit Dress,69,721.28,49768.32,3/20/2022,Samuele Kloisner,cash,12664 Declaration Place,delivered
+315,Coconut Almond Granola,44,989.49,43537.56,11/26/2024,Gwyn Stidever,credit card,265 Kim Place,shipped
+316,Faux Fur Throw Blanket,98,395.74,38782.52,1/17/2022,Trixy Jobling,cash,95347 Manley Trail,shipped
+317,Tropical Fruit Bowl,67,876.55,58728.85,8/14/2023,Perkin Marjoram,check,3890 Eagan Avenue,shipped
+318,Frozen Spinach,19,861.88,16375.72,5/30/2022,Guendolen Biasi,credit card,05 Brentwood Pass,shipped
+319,Smart Fitness Scale,87,816.52,71037.24,8/5/2020,Danila Zorzenoni,check,0 Bellgrove Street,shipped
+320,Italian Sausage Links,98,737.64,72288.72,10/9/2020,Jed Yearnes,cash,150 Corben Road,pending
+321,Arcade Game Machine,45,576.26,25931.7,9/6/2022,Merridie Arnaldy,cash,783 Caliangt Park,shipped
+322,Organic Black Beans,67,2.11,141.37,1/17/2020,Mickie Kirkebye,check,0 Oak Valley Street,pending
+323,Peanut Butter Chocolate Chip Bars,23,923.07,21230.61,12/19/2021,Lorry Gower,check,8 Namekagon Circle,delivered
+324,Insulated Wine Tote,90,248.18,22336.2,6/30/2020,Brett Kinleyside,cash,46 Shopko Court,pending
+325,Smoked Gouda Cheese,24,76.24,1829.76,4/20/2020,Marjory Bauld,cash,73 Goodland Place,pending
+326,Smartphone Holder for Car,80,740.32,59225.6,7/5/2020,Rafe Chart,check,9431 Laurel Street,shipped
+327,Spinach Pizza Rolls,28,461.2,12913.6,3/27/2025,Emmerich Yersin,cash,8270 Myrtle Center,pending
+328,Pleated Midi Dress,67,934.45,62608.15,5/31/2022,Bambie Losebie,check,3237 Pankratz Pass,pending
+329,Computer Monitor Stand,69,895.78,61808.82,2/19/2024,Adolf Keenlayside,check,0783 Morningstar Pass,shipped
+330,Interactive Plush Toy,62,293.24,18180.88,10/14/2022,Maria Isenor,credit card,1 Morningstar Street,pending
+331,Scent Diffuser,8,505.33,4042.64,4/30/2021,Cookie Brudenell,credit card,4716 Brown Alley,delivered
+332,Deluxe First Aid Kit,58,985.7,57170.6,9/14/2024,Linn Coyne,cash,4663 Pleasure Point,shipped
+333,Multi-Port USB Hub,29,952.78,27630.62,10/19/2023,Alon Mongin,cash,2720 Ridgeview Place,delivered
+334,Granulated Sugar,18,773.29,13919.22,11/27/2021,Idell Lascelles,check,9 Kenwood Lane,delivered
+335,Sweet Pea Hummus,29,456.28,13232.12,10/26/2022,Reena Larkins,credit card,57715 Ludington Way,shipped
+336,Motorcycle Phone Mount,65,64.59,4198.35,6/18/2023,Luisa Cicullo,credit card,4 Sheridan Avenue,shipped
+337,Sports Bottle,54,199.62,10779.48,9/29/2022,Jamill Farris,credit card,98 Mallard Trail,delivered
+338,Beef Jerky,48,595.32,28575.36,4/15/2021,Reine Sneezem,cash,589 Barby Way,pending
+339,Spicy Chicken Wings,25,975.97,24399.25,9/6/2022,Darlene Colley,check,4 Pearson Terrace,delivered
+340,Fitness Foam Roller,23,814.33,18729.59,10/15/2020,Margery Mongain,cash,50609 Little Fleur Alley,delivered
+341,Maple Bacon Potato Chips,24,251.05,6025.2,1/31/2025,Modestine Gilstoun,cash,7 Westend Circle,shipped
+342,Digital Food Scale,48,236.14,11334.72,1/27/2021,Alfie Ramshaw,cash,4522 Golf Course Drive,shipped
+343,Blue Corn Tortilla Chips,93,8.72,810.96,5/14/2022,Finley Nowaczyk,check,22 Wayridge Place,pending
+344,Ice Pack,4,797.28,3189.12,12/17/2020,Adara Anthonsen,check,0008 Ridge Oak Court,delivered
+345,Survival Gear Kit,14,368.47,5158.58,1/4/2024,Theodore Lovell,credit card,671 Cody Circle,pending
+346,Breathable Face Mask Set,40,663.6,26544.0,1/21/2024,Cherin Harsnep,credit card,37 Mayer Point,shipped
+347,Desk Organizer Set,43,782.49,33647.07,9/1/2024,Federico Gillivrie,credit card,3 South Hill,pending
+348,Hummus Variety Pack,40,985.6,39424.0,6/15/2022,Shirlene Ortner,cash,4 Browning Road,pending
+349,Classic Pesto Sauce,77,772.81,59506.37,1/12/2020,Osbert O'Dowling,check,46 Daystar Parkway,pending
+350,Sculpting Kit,1,267.2,267.2,9/3/2024,Chrotoem Ibeson,credit card,66556 Vermont Crossing,pending
+351,Fitness Jump Box,38,445.41,16925.58,10/10/2022,Kiel McGillivrie,cash,4704 Hudson Junction,pending
+352,Carrot and Celery Sticks,10,843.69,8436.9,10/28/2021,Jasmine East,credit card,19365 Warbler Terrace,delivered
+353,Hiking Water Bottle with Filter,78,218.99,17081.22,4/24/2023,Jarrod Nornasell,credit card,69 Raven Crossing,pending
+354,Whole Chicken,10,960.47,9604.7,3/12/2024,Ethelbert Winney,cash,9 Annamark Terrace,delivered
+355,Maple Bacon Potato Chips,4,213.8,855.2,10/22/2024,Therine Symcock,cash,4 New Castle Alley,delivered
+356,Dark Chocolate Tart,88,258.28,22728.64,5/31/2022,Derril Haddrell,credit card,2608 Oak Park,shipped
+357,Wireless Earbuds,36,467.92,16845.12,11/27/2022,Olly Mashal,cash,69 Bellgrove Pass,pending
+358,Dog Walking Waist Pack,53,294.98,15633.94,9/20/2021,Corrine Flanne,cash,08622 Aberg Pass,pending
+359,Mesh Sports Leggings,6,182.55,1095.3,1/22/2025,Tawsha Elbourn,cash,86542 Bartillon Plaza,delivered
+360,Classic Black Dress,85,693.3,58930.5,4/7/2023,Lanie Freen,cash,4924 Moose Crossing,shipped
+361,Canvas High-Top Sneakers,53,778.88,41280.64,12/9/2021,Kirsteni Bambrick,check,3 Russell Drive,shipped
+362,LED Strip Lights Kit,94,471.02,44275.88,10/8/2024,Hadria Blackburne,check,1 New Castle Parkway,shipped
+363,Home Delivery Food Journal,69,262.58,18118.02,11/17/2023,Rebekah Gellett,credit card,460 Grim Junction,pending
+364,Smartphone Hand Grip,43,869.68,37396.24,7/9/2023,Cathy Braunlein,check,6902 Hoard Trail,shipped
+365,Gardening Gloves with Claws,67,806.72,54050.24,6/4/2023,Dorree Hallan,credit card,4035 Cordelia Road,pending
+366,Spicy Beef Taco Mix,51,309.86,15802.86,11/27/2022,Teodor Selbach,check,98 Riverside Hill,shipped
+367,Kids' Crafting Station,5,622.36,3111.8,5/22/2021,Guendolen Wilkennson,cash,77170 Menomonie Hill,shipped
+368,Barbecue Chicken Pizza,18,918.09,16525.62,1/6/2021,Olwen Moores,check,6891 Schiller Place,shipped
+369,Aeropress Coffee Maker,87,983.7,85581.9,5/26/2023,Francene Skeen,check,4473 Burrows Road,pending
+370,Flavored Rice Cakes,2,934.77,1869.54,5/9/2022,Mathilda Gentle,check,631 Ruskin Crossing,delivered
+371,Basil-infused Olive Oil,55,222.35,12229.25,1/10/2022,Lemmy Cordon,cash,6 Fairfield Crossing,shipped
+372,Honey Roasted Almonds,38,785.92,29864.96,9/16/2023,Reube Flower,cash,23279 Bashford Place,shipped
+373,Wireless Earbuds Case,72,395.22,28455.84,12/21/2023,Artemas Banbrigge,cash,2470 Chive Center,delivered
+374,Apple Cinnamon Oatmeal,26,376.5,9789.0,2/6/2021,Christophe Flook,check,223 Katie Street,delivered
+375,Buffalo Sauce,85,923.59,78505.15,8/12/2024,Audre Gowland,credit card,34652 Carey Way,delivered
+376,Coconut Curry Lentils,50,146.1,7305.0,4/23/2024,Hillier Heggadon,cash,8 Schlimgen Crossing,pending
+377,Puffer Winter Coat,76,377.37,28680.12,10/5/2020,Rachael Torpie,cash,31715 Michigan Junction,shipped
+378,Lightweight Workout Tank,72,59.4,4276.8,12/3/2024,Corina Mucci,check,3444 Merchant Trail,pending
+379,Samoas Cookie Mix,4,540.21,2160.84,8/13/2024,Danna Lugsdin,credit card,0473 Dakota Park,delivered
+380,Garlic Naan Bread,66,876.73,57864.18,9/10/2021,Sydel Berge,cash,7 Melrose Drive,pending
+381,Sweet Potato Fries,2,374.9,749.8,9/30/2021,Cathleen Anwyl,credit card,43 Myrtle Road,pending
+382,Creative Puzzle Game,39,9.64,375.96,6/20/2023,Ivonne Ruske,cash,920 Blaine Alley,shipped
+383,Garden Vegetable Chips,6,145.57,873.42,3/10/2023,Clary Boagey,check,0749 Del Sol Circle,pending
+384,Frozen Acai Purée,7,483.79,3386.53,12/12/2021,Davine O'Nowlan,cash,23642 Helena Plaza,shipped
+385,Wireless Security Camera,92,348.48,32060.16,6/9/2024,Sandor Branscomb,cash,4110 Jenna Center,delivered
+386,Trainers with Mesh Inserts,91,59.94,5454.54,9/14/2021,Florencia Zorzini,check,2575 Del Sol Trail,pending
+387,Vegan chocolate chip cookies,89,781.01,69509.89,1/29/2020,Denney Grandham,check,818 Logan Circle,shipped
+388,Pasta (Fusilli),42,683.62,28712.04,7/31/2023,Wash Alderwick,cash,48 Doe Crossing Street,pending
+389,Balsamic Glazed Brussels Sprouts,55,656.69,36117.95,11/20/2021,Charlena Dannohl,cash,8267 Scoville Circle,shipped
+390,Cranberry Juice,34,719.6,24466.4,12/30/2023,Timmy Huge,credit card,33 Jackson Drive,delivered
+391,Fitness Tracker Band,92,92.22,8484.24,7/5/2023,Vaughan Paske,cash,021 Erie Crossing,pending
+392,Over-the-Door Hooks,67,87.64,5871.88,3/15/2020,Lauren Micallef,check,54 Hoard Avenue,pending
+393,Garlic Herb Cream Cheese,53,464.95,24642.35,3/31/2024,Thomasina Keen,check,3 Oakridge Trail,shipped
+394,Dark Chocolate Covered Raisins,32,624.32,19978.24,7/17/2023,Nicolais Wybourne,cash,1212 Brickson Park Pass,pending
+395,Chipotle Sauce,81,433.79,35136.99,10/3/2021,Tanny Trimble,check,446 Vernon Center,shipped
+396,Harvest Grain Salad,42,362.58,15228.36,10/12/2021,Lem Crofts,cash,41 Straubel Park,shipped
+397,Window Bird Feeder with Suction Cups,23,624.98,14374.54,8/5/2022,Amelina Neild,cash,587 Linden Terrace,pending
+398,Fresh Basil,86,85.88,7385.68,5/15/2022,Sal Heck,check,16 Dorton Lane,pending
+399,Almond Butter Cookies,80,602.62,48209.6,4/3/2020,Ericha Fumagallo,check,10 Aberg Point,shipped
+400,Whisk Set,77,707.06,54443.62,2/8/2022,Ainsley Chapier,cash,64 Dawn Hill,pending
+401,Tomato Basil Soup,4,93.23,372.92,3/17/2023,Diego Stit,credit card,7366 Sunbrook Pass,shipped
+402,Coffee Maker,17,757.46,12876.82,4/21/2021,Marje Sarson,credit card,1896 Graedel Way,pending
+403,Children's Musical Instrument Set,71,581.24,41268.04,2/13/2020,Sheelagh Collingridge,cash,793 Northview Point,delivered
+404,Chocolate Chip Cliff Bars,26,707.43,18393.18,9/6/2024,Eartha Casebourne,credit card,1 Dapin Place,delivered
+405,Rustic Wooden Picture Frame,99,328.24,32495.76,9/28/2023,Irwin Meace,credit card,92634 Lukken Trail,pending
+406,Smartphone Camera Lens Kit,63,873.6,55036.8,1/5/2025,Roddie Beeho,cash,179 Westend Pass,shipped
+407,Blender Bottle,60,769.12,46147.2,5/22/2022,Fairfax Philpault,credit card,6 Dunning Parkway,shipped
+408,Caramel Apple Chips,55,563.67,31001.85,5/11/2023,Stern Littrell,check,98 Dwight Parkway,shipped
+409,Mushroom Soup (canned),44,214.41,9434.04,6/15/2024,Dilly Hainge,cash,99606 Marquette Drive,delivered
+410,Mango Chutney,74,949.81,70285.94,7/29/2023,Elvis Signorelli,check,3799 John Wall Road,delivered
+411,Gingerbread House Kit,56,958.4,53670.4,5/16/2024,Yorgo Velde,check,86293 Dapin Parkway,pending
+412,Beef Taco Skillet,81,858.15,69510.15,8/1/2021,Delano Yaknov,credit card,325 Katie Avenue,shipped
+413,Thyme,78,714.55,55734.9,4/4/2020,Delphinia Smurthwaite,check,5 Texas Junction,shipped
+414,Terry Cloth Robe,22,700.8,15417.6,9/27/2023,Burt Nazer,check,205 Loftsgordon Hill,shipped
+415,Whole Roasted Chicken,32,190.61,6099.52,3/1/2020,Joella Pickthall,cash,61 Forest Dale Avenue,shipped
+416,Organic Brown Sugar,59,9.88,582.92,7/26/2024,Melesa McGrey,cash,097 Starling Plaza,shipped
+417,Mediterranean Chickpea Salad,97,117.94,11440.18,12/17/2023,Grantham Seamans,credit card,43616 Glendale Junction,pending
+418,Maple Cinnamon Granola Bars,60,197.68,11860.8,5/13/2021,Georg Craigie,cash,021 Gulseth Crossing,pending
+419,Teriyaki Beef Strips,19,470.91,8947.29,12/25/2024,Tammy Redd,check,67027 Hollow Ridge Point,pending
+420,LED Camping Lantern with USB Charging,59,58.51,3452.09,4/30/2022,Demott Ewestace,cash,0 Artisan Way,pending
+421,Non-Stick Baking Sheets,69,491.04,33881.76,2/2/2024,Tudor Musso,cash,099 Delaware Pass,delivered
+422,Stainless Steel Travel Mug,53,429.23,22749.19,5/4/2020,Aleta Sharkey,cash,7 Grover Park,pending
+423,Car Sunshade,87,468.46,40756.02,10/30/2024,Stacy Kynd,cash,93 Del Sol Court,shipped
+424,Spaghetti Sauce,63,993.33,62579.79,3/23/2020,Hedvige Nealon,credit card,792 Granby Trail,pending
+425,Leather Biker Jacket,83,122.34,10154.22,6/13/2025,Cara Pynner,credit card,7 Bowman Circle,shipped
+426,Plant Pot Drip Trays,77,69.48,5349.96,4/3/2025,Johannes Konzel,cash,92 Fairview Avenue,delivered
+427,Spinach and Cheese Stuffed Shells,82,312.7,25641.4,3/7/2025,Ferdy Cancellor,check,2132 Lillian Parkway,shipped
+428,Tennis Racket,20,90.28,1805.6,3/28/2024,Gibb Redholes,cash,20 Magdeline Trail,shipped
+429,Creamy Ranch Dressing,29,266.74,7735.46,3/23/2025,Carolee Durrant,credit card,5454 Continental Road,delivered
+430,Zesty Garlic Marinade,32,128.65,4116.8,5/5/2023,Alyssa Monk,check,26 Meadow Ridge Hill,delivered
+431,Garden Vegetable Soup,47,952.29,44757.63,3/14/2025,Shir Cudby,check,1953 Graedel Place,pending
+432,Cheese Stuffed Jalapenos,14,408.93,5725.02,1/22/2021,Zorana Prowse,cash,180 Warbler Trail,shipped
+433,Stylish Wide-Leg Trousers,19,326.13,6196.47,6/2/2024,Salli Agget,credit card,7515 Lillian Court,delivered
+434,Puzzle,91,369.15,33592.65,3/4/2023,Linea Job,check,03 Donald Junction,shipped
+435,Floral Wrap Top,97,402.78,39069.66,9/6/2020,Umeko Locker,cash,61 Pankratz Pass,pending
+436,Grilled Vegetable Medley,17,662.74,11266.58,2/18/2020,Fabiano Shellsheere,cash,25 Columbus Road,shipped
+437,Pet Travel Bed,8,44.38,355.04,9/9/2024,Gothart Turrell,cash,0 Ohio Park,delivered
+438,Over-the-Door Hooks,58,313.01,18154.58,8/10/2021,Allianora Schimmang,cash,31 Shoshone Center,delivered
+439,Luxury Yoga Mat,39,950.32,37062.48,6/30/2022,Cirillo Oxtaby,cash,922 Warbler Terrace,shipped
+440,Foam Building Blocks for Kids,95,542.88,51573.6,9/6/2022,Foster Meas,credit card,4 Pearson Place,pending
+441,Mushrooms,3,168.5,505.5,9/29/2020,Lela Osgar,credit card,2 Hallows Place,shipped
+442,Lemon Herb Grilled Chicken,26,349.32,9082.32,1/31/2023,Olva Hubbuck,cash,471 Sommers Crossing,shipped
+443,Bike Repair Tool Kit,68,709.6,48252.8,3/9/2022,Juline Rearden,credit card,26 Lawn Court,shipped
+444,Pasta Salad Kit,4,166.02,664.08,4/3/2022,Marcille Huxham,credit card,88925 Morningstar Place,shipped
+445,Herb-Infused Olive Oil,18,590.39,10627.02,7/9/2020,Joshia Welch,cash,9 Washington Court,pending
+446,Pressure Washer Accessories Kit,34,452.43,15382.62,6/22/2021,Mace Rosendorf,credit card,6 Victoria Road,delivered
+447,Black Bean Spaghetti,7,331.81,2322.67,3/22/2021,Clarke Kasparski,check,8 Union Lane,pending
+448,Cabbage Slaw Mix,11,764.28,8407.08,10/31/2023,Mort Kinnach,cash,959 Bashford Place,pending
+449,Wireless Gaming Mouse,78,390.13,30430.14,9/10/2022,Brittan Greenough,cash,6448 Londonderry Parkway,pending
+450,Digital Food Scale,42,752.11,31588.62,6/17/2020,Aubrette Heindl,check,8 Prairieview Road,pending
+451,Pasta Primavera,23,436.18,10032.14,3/28/2025,Faith Collingdon,check,23568 Loomis Crossing,pending
+452,Creamy Ranch Dressing,11,342.1,3763.1,10/30/2021,Lyssa Fagg,cash,2124 Londonderry Drive,pending
+453,Electric Rice Cooker with Steamer,3,728.44,2185.32,12/16/2023,Cyndia Richfield,credit card,70789 Del Mar Center,pending
+454,Adjustable Dumbbells,58,699.19,40553.02,5/14/2021,Vanda Sisland,credit card,01 Grim Park,delivered
+455,Whole Grain Cereal,61,73.62,4490.82,3/29/2023,Elisabeth Blesdill,cash,16906 Dixon Parkway,delivered
+456,Pet Grooming Scissors,76,845.7,64273.2,8/24/2024,Ethan Healings,cash,2519 Killdeer Terrace,shipped
+457,Action Camera,68,455.01,30940.68,2/11/2025,Allan Speachley,cash,502 Gulseth Alley,delivered
+458,Vanilla Ice Cream,88,888.98,78230.24,11/22/2021,Cathe Markwick,credit card,63589 Donald Terrace,delivered
+459,Cherry Almond Protein Bar,98,340.35,33354.3,1/20/2023,Brande Capstack,credit card,8 5th Pass,shipped
+460,Balsamic Vinegar,28,805.99,22567.72,5/27/2024,Desiri Ponting,cash,28246 Portage Crossing,delivered
+461,Lemon Pepper Seasoning,14,613.36,8587.04,2/23/2022,Alfred Berge,credit card,9842 Hallows Hill,shipped
+462,Vegetable and Cheese Quesadillas,62,956.88,59326.56,6/3/2021,Rem Dracksford,check,4 Chive Hill,delivered
+463,Lentils,56,415.08,23244.48,10/15/2022,Rosalinda Hobell,cash,003 Jackson Court,shipped
+464,Savory Oatmeal Cups,86,777.8,66890.8,4/23/2022,Meriel Steptoe,check,954 Nevada Court,shipped
+465,Weighted Blanket for Adults,67,310.21,20784.07,1/19/2023,Haslett Adanet,credit card,5866 Fuller Junction,shipped
+466,Cork Yoga Mat,99,607.93,60185.07,8/4/2021,Chariot Drissell,cash,7093 Milwaukee Pass,delivered
+467,Wireless Gaming Mouse,13,559.84,7277.92,10/28/2024,Jarib Brosel,check,622 Utah Crossing,pending
+468,Gardening Tools Set,30,755.37,22661.1,5/24/2025,Giorgi Bloxland,check,09093 David Lane,pending
+469,Buffalo Stilton Cheese,36,942.86,33942.96,5/31/2022,Brietta Dorn,credit card,4033 Tomscot Parkway,delivered
+470,Smart Water Bottle,78,243.01,18954.78,5/29/2022,Idette Tibbits,cash,2 Leroy Court,shipped
+471,Peanut Butter Filled Pretzels,75,974.45,73083.75,3/10/2024,Jessamyn Castellan,check,3304 Cardinal Circle,shipped
+472,Sweet Potato Mash,26,722.71,18790.46,2/21/2020,Aldous Darville,check,2786 Mendota Circle,delivered
+473,Tofu,76,305.54,23221.04,8/5/2024,Doralynne Blaschek,check,770 Oak Alley,pending
+474,Children's Science Experiment Lab Kit,74,962.89,71253.86,6/26/2020,Arthur Drennan,credit card,41 Barby Lane,pending
+475,Reflective Safety Vest,14,852.14,11929.96,6/4/2022,Artemus Leek,cash,35 Monterey Hill,delivered
+476,Portable Pet Bathing Tool,54,213.35,11520.9,6/25/2020,Lucia Ramshay,cash,97034 Lillian Alley,delivered
+477,Adjustable Pet Grooming Table,41,33.77,1384.57,11/14/2022,Fania Conville,check,9120 Golden Leaf Way,shipped
+478,Faux Fur Throw Blanket,48,492.24,23627.52,7/18/2024,Lorraine Ovey,credit card,26247 Di Loreto Way,delivered
+479,Travel Document Organizer,57,475.23,27088.11,12/4/2021,Oneida MacCrachen,check,2567 Reindahl Way,shipped
+480,Smartphone Gimbal Stabilizer,77,279.49,21520.73,1/9/2023,Rancell Gange,cash,9081 Continental Center,delivered
+481,Car Windshield Sun Shade,24,325.06,7801.44,5/21/2020,Annabela Searle,cash,48 Kropf Terrace,shipped
+482,Grapes (red),5,992.76,4963.8,2/4/2021,Noah Curedell,check,465 Riverside Center,shipped
+483,Jump Rope with Counter,57,236.23,13465.11,6/11/2025,Raimund Enterle,cash,424 Jay Pass,shipped
+484,Home Delivery Food Journal,67,835.65,55988.55,8/6/2023,Sergeant Prozescky,credit card,1 Hauk Crossing,pending
+485,Vegetable Stir Fry Mix,89,571.64,50875.96,3/14/2025,Martita Scandrick,cash,3087 Green Ridge Court,delivered
+486,Vegan Caesar Dressing,62,207.85,12886.7,4/2/2024,Maddie Tschierasche,check,1854 Rutledge Park,delivered
+487,Foam Roller for Muscle Recovery,30,96.6,2898.0,10/22/2020,Leroy Gudge,check,12424 Muir Circle,pending
+488,Kids' Educational Tablet,87,816.72,71054.64,4/18/2024,Rosaline Wixey,credit card,812 Spohn Road,delivered
+489,Dish Soap Dispenser,96,411.27,39481.92,8/18/2023,Julian Bloomfield,cash,478 Cascade Drive,pending
+490,Wireless Earbuds,12,937.9,11254.8,1/15/2023,Aurea Glasscock,cash,24762 Schurz Pass,shipped
+491,Indoor Plants,29,412.3,11956.7,4/3/2024,Karissa Eriksson,cash,77 Barby Pass,shipped
+492,Nut Mix,43,73.96,3180.28,6/17/2024,Keely Ohms,credit card,9 Kings Road,delivered
+493,Electric Pressure Washer,75,159.59,11969.25,10/15/2021,Mariejeanne Durrett,credit card,0474 Division Terrace,shipped
+494,Coconut Curry Sauce,26,498.89,12971.14,3/11/2023,Jean Aveyard,check,504 Walton Pass,pending
+495,Coconut Almond Granola,50,147.13,7356.5,10/7/2023,Nickey Tyhurst,credit card,66169 Dapin Court,shipped
+496,Herb Seasoned Croutons,70,378.88,26521.6,9/10/2020,Cecelia Windibank,check,64 Lakewood Gardens Way,pending
+497,Oatmeal Raisin Cookies,39,914.83,35678.37,8/9/2023,Hilda Burt,check,6 Manufacturers Parkway,shipped
+498,Mini Projector for Smartphones,38,894.56,33993.28,11/26/2022,Dilly Epilet,credit card,6 Barby Road,pending
+499,Sesame Seeds,22,843.5,18557.0,12/13/2020,Nanni Rableau,cash,9305 Anniversary Pass,shipped
+500,Sliced Olives,91,329.46,29980.86,4/12/2023,Annalise Granham,cash,01109 Gale Lane,pending
+501,Wireless Mouse,50,163.51,8175.5,8/16/2024,Winston Schrei,cash,102 Eliot Park,pending
+502,Organic Coconut Flour,55,937.85,51581.75,6/29/2023,Cherry McCroary,check,6359 Heffernan Hill,pending
+503,Bluetooth Headphones,68,854.67,58117.56,11/8/2021,Mattheus Perl,cash,8309 Grayhawk Avenue,delivered
+504,Andouille Sausage,38,748.47,28441.86,5/5/2024,Daniella Armand,credit card,2 Sommers Place,shipped
+505,Cushion Covers,89,994.74,88531.86,3/26/2025,Jessey Fiske,check,6 Kropf Way,delivered
+506,Dark Chocolate Covered Pretzels,31,776.12,24059.72,12/19/2021,Daffi Monini,cash,2 Norway Maple Court,delivered
+507,Baking Powder,1,992.4,992.4,1/15/2023,Cordy Guppy,cash,8 Memorial Drive,shipped
+508,Pineapple Teriyaki Chicken Mix,95,305.79,29050.05,2/13/2022,Meggi Urey,check,88 Grover Parkway,shipped
+509,Noise Cancelling Ear Muffs,67,559.31,37473.77,3/31/2025,Polly Kezar,credit card,72629 Logan Point,delivered
+510,Berries Medley,17,453.42,7708.14,5/21/2020,Merridie Cawthera,credit card,2416 Sommers Road,delivered
+511,Mango Chilli Sauce,61,721.67,44021.87,8/30/2023,Dukey Gelder,credit card,49 Loeprich Hill,delivered
+512,Dark Chocolate Covered Pretzels,54,271.37,14653.98,7/4/2023,Wood Norcutt,cash,5312 Harbort Lane,delivered
+513,Watercolor Brush Pens,30,893.22,26796.6,4/30/2024,Yankee Pearce,cash,102 Hanover Junction,shipped
+514,Multifunctional Pocket Tool,26,902.15,23455.9,8/27/2023,Corrianne Sandcraft,cash,8973 Crowley Point,delivered
+515,Wireless HDMI Transmitter,89,723.65,64404.85,2/23/2023,Moss Raimbauld,check,32231 Lindbergh Crossing,pending
+516,Spaghetti Squash,78,882.11,68804.58,4/15/2023,Susanetta Doy,credit card,6337 Springview Lane,shipped
+517,Cork Yoga Mat,70,263.43,18440.1,4/9/2020,Moise Longbothom,check,4954 Dryden Court,shipped
+518,LED Desk Lamp with USB Charging,20,185.53,3710.6,7/7/2023,Michael Justun,cash,66543 Chinook Road,shipped
+519,Stuffed Peppers with Quinoa,5,573.79,2868.95,5/19/2020,Stacy Creaser,check,3 Melby Plaza,delivered
+520,Folding Table,37,917.65,33953.05,10/1/2021,Ebenezer Carbry,check,3585 Banding Court,pending
+521,Pumpkin Pie Spice,70,513.99,35979.3,5/24/2025,Dorolisa Ruskin,cash,01175 Springs Street,pending
+522,Smartwatch,16,484.12,7745.92,10/26/2020,Pamelina Wolseley,check,58264 Beilfuss Park,delivered
+523,Decorative Throw Blanket,14,471.86,6606.04,8/23/2021,Hillary Madgwick,credit card,58 Fordem Plaza,shipped
+524,Dog Waste Bag Dispenser,62,251.67,15603.54,10/23/2020,Kathrine Bernaciak,credit card,76 Troy Crossing,pending
+525,Mediterranean Chickpea Salad,31,883.89,27400.59,1/19/2023,Dallon Tipple,cash,159 Shopko Plaza,pending
+526,Cajun Seasoning,73,324.66,23700.18,9/23/2022,Georgia Lepick,cash,9547 Ludington Center,delivered
+527,Nutty Granola Clusters,30,421.94,12658.2,12/31/2021,Betty Penvarden,credit card,30109 Holy Cross Park,shipped
+528,Bamboo Cutting Board,70,781.79,54725.3,6/16/2023,Aggy Mulvenna,credit card,38475 Green Place,delivered
+529,Kombucha Drink,44,203.2,8940.8,12/11/2021,Wilek Paine,credit card,752 Veith Parkway,shipped
+530,Almond Flour,30,104.38,3131.4,3/31/2020,Seamus Daunter,credit card,919 Dottie Avenue,shipped
+531,Vegan Cheese,56,235.18,13170.08,1/6/2023,Demetria Richten,check,4124 Maple Wood Point,pending
+532,Herb Garlic Butter,68,768.88,52283.84,10/20/2020,Fiorenze Panichelli,cash,379 Independence Alley,pending
+533,Cauliflower Crust Pizza,6,124.53,747.18,5/20/2022,Judas Barensen,credit card,6148 Glacier Hill Alley,delivered
+534,Organic Brown Rice Cakes,9,683.36,6150.24,8/26/2020,Christel Mellon,credit card,0005 Sage Circle,shipped
+535,Vanilla Pudding Mix,5,628.17,3140.85,3/16/2023,Elden Hubbart,cash,4154 Luster Hill,pending
+536,Dark Chocolate Bars,64,27.17,1738.88,6/3/2021,Pacorro Clardge,cash,08480 Amoth Pass,delivered
+537,Folding Backpack Chair,86,228.42,19644.12,5/7/2020,Randolf Osipenko,cash,4531 Ruskin Alley,shipped
+538,Smart Air Purifier,10,489.59,4895.9,8/13/2020,Berkie Meert,credit card,1215 Blackbird Street,pending
+539,Smart Air Purifier,44,927.12,40793.28,3/18/2025,Geri Neem,check,3 Chive Road,shipped
+540,Cotton Sweatpants,86,7.17,616.62,3/26/2020,Ula Bernli,cash,50714 Maple Hill,pending
+541,Peanut Butter,60,862.31,51738.6,4/9/2024,Domeniga Woodings,credit card,0771 Old Shore Lane,pending
+542,Antique Style Clock,26,520.87,13542.62,5/31/2025,Israel Reeme,credit card,7 Surrey Avenue,shipped
+543,Noise-Canceling Headphones,70,290.47,20332.9,4/15/2024,Daphna Oddboy,cash,7 Sycamore Court,pending
+544,Indoor Grill,32,307.71,9846.72,12/5/2023,Sven Ramel,credit card,0 Cambridge Way,delivered
+545,Herbed Couscous,82,687.24,56353.68,5/17/2024,Marci Teacy,credit card,82 Sheridan Alley,delivered
+546,Pineapple Chunks (canned),97,322.45,31277.65,10/3/2024,Hernando McCrackem,credit card,52 Anzinger Lane,shipped
+547,Smartwatch,17,667.56,11348.52,8/4/2022,Sallyanne Donner,credit card,104 Debs Street,delivered
+548,Peanut Butter Pretzel Nuggets,71,136.78,9711.38,3/12/2022,Velvet Hadcroft,check,510 Merchant Lane,delivered
+549,Pretzel Bites,59,607.75,35857.25,4/11/2022,Rolland Gowan,cash,0345 Kensington Avenue,pending
+550,Aged White Cheddar Popcorn,88,565.41,49756.08,1/13/2022,Therese Duke,credit card,1 Lakeland Park,pending
+551,Bird Feeder,29,644.27,18683.83,8/11/2022,Bellina Gaul,credit card,8 Sachs Terrace,shipped
+552,Frozen Spinach,99,755.19,74763.81,5/2/2024,Othilia Sewall,cash,14843 Maywood Circle,shipped
+553,White Rice,92,158.06,14541.52,9/15/2021,Brig Rediers,credit card,411 Sunfield Junction,delivered
+554,Organic Apples,37,126.59,4683.83,9/27/2023,Otho Cowterd,cash,631 Goodland Circle,pending
+555,Chicken Broth,5,795.53,3977.65,7/15/2023,Anjanette Edgars,credit card,11 Acker Terrace,delivered
+556,Chili Lime Corn Chips,54,611.45,33018.3,10/9/2024,Cob Dunwoody,check,64323 Westend Terrace,shipped
+557,Graphic Print Leggings,83,64.96,5391.68,7/21/2023,Penrod Ilchuk,credit card,9282 Mosinee Crossing,pending
+558,Multi-Functional Rice Cooker,45,908.13,40865.85,3/16/2020,Mandel Tollfree,cash,612 Carberry Plaza,pending
+559,Fitness Resistance Bands,31,419.76,13012.56,12/20/2020,Almeria Alekseicik,check,26733 1st Drive,shipped
+560,Mashed Sweet Potatoes,75,306.51,22988.25,5/4/2022,Corny Villalta,cash,7 6th Drive,shipped
+561,Travel Mug,9,513.6,4622.4,2/27/2024,Dedra Kubach,credit card,22 Dunning Crossing,shipped
+562,Reusable Coffee Filter,82,6.96,570.72,5/24/2020,Simone Karpenko,check,8067 Dixon Road,shipped
+563,Fleece Hoodie,47,746.34,35077.98,9/7/2024,Lind Carnihan,check,639 Sage Pass,delivered
+564,Adjustable Laptop Desk,97,59.02,5724.94,6/8/2021,Berty McPhaden,credit card,56 Stone Corner Road,pending
+565,Insulated Lunch Box,65,537.65,34947.25,1/16/2022,Lyssa Fuentes,cash,93880 Barby Park,delivered
+566,Honey Nut Cheerios,47,203.12,9546.64,5/25/2025,Alan Menichini,credit card,7 Harper Road,shipped
+567,Thai Peanut Dressing,14,512.27,7171.78,9/18/2020,Anett Madner,check,1849 Northland Pass,shipped
+568,Bluetooth Sleep Headphones,19,692.9,13165.1,12/19/2023,Rafaelia Hurren,check,9407 Namekagon Trail,shipped
+569,Overnight Duffle Bag,72,847.8,61041.6,8/24/2020,Marybelle Devers,credit card,18250 Stephen Center,delivered
+570,Organic Chia Seeds,77,357.4,27519.8,3/26/2020,Gabriele Beane,check,62736 Lakewood Gardens Way,shipped
+571,Matcha Green Tea Powder,80,161.76,12940.8,10/22/2023,Dniren Czaja,check,5722 Scofield Avenue,delivered
+572,Classic Leather Wallet,80,419.95,33596.0,8/19/2021,Nikaniki de'-Ancy Willis,cash,3601 Miller Drive,pending
+573,Electric Hot Pot,41,130.06,5332.46,2/18/2020,Carny Poulsom,cash,471 Delaware Trail,delivered
+574,Pasta Sauce Mix,34,201.07,6836.38,10/29/2023,Raynell Langdridge,cash,0 Nelson Avenue,pending
+575,Silicone Baking Mat Set,34,529.92,18017.28,3/6/2020,Gus Tammadge,cash,4 Kropf Terrace,shipped
+576,Cheddar Cheese Crackers,63,521.18,32834.34,12/31/2021,Corrie Goodlip,credit card,94359 Steensland Trail,shipped
+577,Organic Chia Seeds,82,737.27,60456.14,12/27/2020,Jobi Charpling,credit card,25774 Nelson Trail,delivered
+578,Children's Science Experiment Lab Kit,58,961.71,55779.18,12/6/2020,Inez Godbehere,cash,47 North Way,delivered
+579,Watercolor Paint Set,89,663.2,59024.8,1/20/2020,Jasun Havock,check,24 Leroy Street,delivered
+580,Comfort Flats,15,900.52,13507.8,1/21/2021,Ashley Strevens,check,57381 Mockingbird Hill,shipped
+581,Hair Dryer,3,316.85,950.55,10/15/2021,Ira Stickland,cash,64 Oneill Lane,shipped
+582,Laundry Detergent,59,579.11,34167.49,7/6/2024,Stoddard Sheahan,cash,43096 Cody Way,pending
+583,Sliced Olives,58,262.36,15216.88,1/4/2023,Jake Killock,check,52038 Norway Maple Road,pending
+584,Silicone Baking Cups,17,624.12,10610.04,3/7/2025,Brodie Trewhitt,check,1806 Shelley Point,shipped
+585,Dog Training Whistle,63,236.34,14889.42,8/20/2020,Charmaine Oen,cash,019 Mayer Point,pending
+586,Cheddar Cheese Crackers,65,339.35,22057.75,7/2/2020,Becky Salvatore,check,61421 Fordem Trail,pending
+587,Drone,5,471.14,2355.7,10/7/2023,Juan Kilty,cash,6103 Mesta Avenue,pending
+588,Quinoa,91,163.05,14837.55,2/10/2021,Merv Bynert,check,64 Tony Trail,shipped
+589,Compact Refrigerator,33,672.35,22187.55,5/14/2025,Deni Raynes,credit card,220 Dwight Park,shipped
+590,Indoor Grill,17,843.1,14332.7,1/1/2025,Carolynn Neames,check,679 Bunting Avenue,delivered
+591,Honey,8,215.62,1724.96,6/18/2024,Byron Rosenauer,check,1 Meadow Valley Junction,delivered
+592,Apple Sauce,29,194.43,5638.47,7/16/2023,Silvano Butter,cash,63 Hazelcrest Alley,shipped
+593,Maple Pecan Pancake Mix,41,269.26,11039.66,3/14/2021,Andrus Enos,cash,51809 Bowman Street,delivered
+594,Reusable Food Storage Bags,16,273.6,4377.6,9/28/2020,Bartholomew Faulds,cash,63 Bluestem Lane,pending
+595,Sliced Avocado,33,99.36,3278.88,3/4/2021,Thatch Sustin,cash,0838 Alpine Place,pending
+596,Pet Grooming Kit,27,123.5,3334.5,2/5/2022,Elsy Vignaux,credit card,54 Blaine Terrace,pending
+597,Cinnamon Apple Sauce,84,578.43,48588.12,7/12/2022,Stephine Local,credit card,7330 Schiller Circle,shipped
+598,Gluten-Free Pancake Mix,73,421.62,30778.26,6/21/2024,Charley Burgwin,check,58 Norway Maple Circle,delivered
+599,Honey mustard chicken tenders,31,145.43,4508.33,10/16/2020,Misty Amiable,credit card,51 Elka Avenue,pending
+600,Adjustable Yoga Mat Strap,41,500.64,20526.24,4/19/2022,Jody Beidebeke,credit card,83 Blackbird Road,pending
+601,High-Waisted Skirt,4,752.01,3008.04,3/30/2025,Dehlia Darragh,cash,197 Buell Court,delivered
+602,Fitness Resistance Bands Kit,68,608.77,41396.36,12/24/2020,Esma McCauley,credit card,1294 Esch Terrace,delivered
+603,BBQ Jackfruit,92,215.8,19853.6,3/9/2020,Lesya McIllrick,credit card,935 Quincy Park,shipped
+604,Sunglasses,13,619.48,8053.24,4/16/2023,Richy Baudet,cash,076 Sauthoff Point,shipped
+605,Shower Curtain Hooks,50,332.81,16640.5,7/17/2020,Almire Kenneford,cash,56280 Sunfield Street,delivered
+606,Quinoa Salad,34,195.44,6644.96,8/19/2020,Krystle Tunny,check,96167 Butternut Terrace,delivered
+607,Sweetened Condensed Milk,1,38.0,38.0,2/13/2021,Giffie Skittreal,cash,6497 Becker Alley,pending
+608,Compost Bin,64,569.19,36428.16,3/2/2021,Sandy Dedney,check,2 Armistice Road,delivered
+609,Fishing Tackle Box,11,672.93,7402.23,8/4/2020,Bryn MacTrustram,check,6 Pawling Drive,pending
+610,Dog Car Seat Cover,13,805.17,10467.21,9/16/2022,Alane Vasilyevski,cash,451 Welch Plaza,pending
+611,Insulated Cooler,94,116.9,10988.6,1/6/2023,Gordon Smithen,cash,16433 Riverside Pass,pending
+612,Electric Food Slicer,61,670.05,40873.05,10/6/2022,Clare Persicke,cash,1 Vahlen Trail,pending
+613,Indoor Grill,96,844.5,81072.0,6/7/2022,Bronny Goodayle,cash,5 Lotheville Place,shipped
+614,Butternut Squash Soup,65,598.99,38934.35,9/13/2024,Jacob Canete,credit card,71343 Rutledge Drive,shipped
+615,Chopping Board,7,127.37,891.59,12/10/2024,Theresina Burrage,cash,8 Holy Cross Hill,delivered
+616,Travel Mug,28,838.25,23471.0,8/18/2023,Gretna Winterburn,cash,2 Anhalt Lane,shipped
+617,Mixed Berry Smoothie Pack,11,964.88,10613.68,9/21/2021,Madalyn Espasa,check,3064 Karstens Center,delivered
+618,Crispy Kale Chips,52,509.96,26517.92,1/18/2020,Guinevere Doghartie,credit card,4036 Erie Trail,pending
+619,High-Top Leather Boots,20,718.61,14372.2,9/2/2020,Jae Stambridge,credit card,40288 Carpenter Circle,shipped
+620,Two-Tier Fruit Basket,55,604.7,33258.5,1/29/2020,Wilona Rennie,credit card,52 Russell Hill,pending
+621,Digital Alarm Clock,6,816.92,4901.52,2/27/2025,Loella Cuncliffe,check,628 Dahle Pass,pending
+622,Telescope,3,940.28,2820.84,5/16/2021,Evey Lilburn,cash,0 Havey Point,delivered
+623,Digital Bullet Journal,40,773.47,30938.8,3/7/2024,Alayne Gerrelts,check,74682 Arkansas Road,shipped
+624,Electric Food Slicer,33,536.77,17713.41,6/23/2024,Niko Blewett,check,1664 Darwin Park,shipped
+625,Kale and Quinoa Salad,49,611.3,29953.7,1/10/2024,Jan Stairs,credit card,749 Bonner Crossing,delivered
+626,Luxury Bath Salts,22,232.29,5110.38,11/9/2024,Nicolai Kornacki,check,89 Lakeland Alley,pending
+627,Artisan Flatbreads,90,772.75,69547.5,8/6/2023,Marj Hamblington,credit card,806 Cottonwood Trail,pending
+628,Protein Bar Variety Pack,54,337.68,18234.72,3/14/2022,Buffy Tugman,credit card,8943 Meadow Vale Court,delivered
+629,Collapsible Storage Crates,28,75.17,2104.76,8/8/2020,Hussein Shayes,check,7 Linden Plaza,pending
+630,Digital Food Thermometer,40,63.2,2528.0,4/21/2025,Mario Woodcock,credit card,878 Eggendart Crossing,delivered
+631,Digital Stopwatch Timer,20,584.41,11688.2,12/5/2022,Maryann Temperley,cash,1477 Stephen Pass,shipped
+632,Organic Baby Carrots,72,677.59,48786.48,12/11/2024,Horacio Gerckens,credit card,7 Doe Crossing Place,delivered
+633,Electric Butter Churn,10,530.68,5306.8,10/3/2023,Mateo Jacquemot,check,5151 Hauk Lane,delivered
+634,Lockable Bicycle Chain,35,413.09,14458.15,9/28/2021,Tammi Cuffin,credit card,4328 Lake View Trail,shipped
+635,Plant Watering Spikes,31,993.04,30784.24,5/25/2022,Marijn Bow,check,5 Mosinee Hill,shipped
+636,Inflatable Pool Float,68,566.28,38507.04,6/9/2024,Rudolfo Readings,credit card,3 Utah Point,pending
+637,Cranberry Almond Biscotti,96,550.55,52852.8,3/22/2024,Penelopa Micheli,credit card,799 Randy Alley,pending
+638,Field Journal,47,433.38,20368.86,12/29/2023,Ailbert Soppett,credit card,40 Sullivan Court,pending
+639,Lemonade Mix,98,343.92,33704.16,9/18/2023,Gleda McGreay,credit card,08 Lakeland Hill,shipped
+640,Elegant Maxi Skirt,78,343.34,26780.52,2/1/2023,Brana Forward,cash,21 New Castle Terrace,shipped
+641,Organic Ramen Noodles,23,676.67,15563.41,3/3/2025,Derek Restill,check,1 Dapin Way,shipped
+642,Brown Rice,95,859.67,81668.65,12/22/2023,Terra Keable,cash,5293 Hansons Trail,delivered
+643,Pumpkin Waffles,81,148.94,12064.14,12/3/2022,Noemi Viger,cash,0638 Moose Pass,shipped
+644,Organic Lentil Soup,18,98.39,1771.02,6/14/2023,Janaye Jahnig,credit card,7471 School Terrace,pending
+645,Herb Seasoned Rice,20,151.56,3031.2,4/19/2020,Veda Longstaff,cash,6300 Anzinger Place,delivered
+646,Lightweight Backpacking Tent,92,409.53,37676.76,12/16/2020,Zebulen Scarisbrick,credit card,571 Sutherland Center,delivered
+647,Vegetarian Pizza,81,140.87,11410.47,3/10/2025,Whitby Bodham,cash,4279 Northview Street,pending
+648,Classic Pesto Sauce,66,679.81,44867.46,11/11/2022,Renard Wigzell,cash,77 Barby Circle,shipped
+649,Hand Crank Blender,89,178.24,15863.36,10/17/2020,Corny Cockshott,credit card,1775 8th Alley,pending
+650,Fitness Jump Box,97,508.8,49353.6,11/25/2022,Son Mallindine,check,2721 Buhler Avenue,delivered
+651,Garlic and Herb Rub,3,608.79,1826.37,12/18/2024,Nikolas Knowller,cash,28967 Clemons Pass,delivered
+652,Lemon Dill Salmon,1,363.96,363.96,6/2/2024,Zora MacAdam,check,5 Becker Road,shipped
+653,Dark Chocolate Covered Raisins,94,508.88,47834.72,4/7/2021,Kissee Lufkin,check,3 Kedzie Park,shipped
+654,Blue Denim Jeans,54,532.93,28778.22,5/16/2020,Tiertza Marke,credit card,27453 Meadow Ridge Place,shipped
+655,Wooden Children's Play Kitchen,83,616.89,51201.87,3/18/2025,Brock Oller,check,02500 Chive Road,shipped
+656,Silicone Stretch Lids,99,41.54,4112.46,7/15/2021,Cristiano Elmhirst,cash,169 Oneill Alley,pending
+657,Home Brewing Starter Kit,71,801.23,56887.33,4/7/2022,Kendal Postgate,check,30 Stone Corner Center,delivered
+658,Safety Goggles,20,328.22,6564.4,8/26/2021,Ailene Dimic,check,13736 Parkside Trail,pending
+659,Microwave Popcorn Maker,49,729.59,35749.91,6/13/2023,Stacia Nairns,credit card,82664 Autumn Leaf Way,delivered
+660,Granulated Sugar,52,650.64,33833.28,3/24/2025,Currie Wozencraft,cash,759 Little Fleur Terrace,shipped
+661,Savory Snack Mix,60,874.42,52465.2,9/14/2024,Lina Gartsyde,credit card,037 Sage Way,delivered
+662,Sweet Potato & Kale Hash,68,96.52,6563.36,10/30/2021,Bernardo Canning,credit card,71218 Utah Street,delivered
+663,Gardening Gloves,2,616.44,1232.88,2/24/2023,Eric Servant,check,465 Sachtjen Hill,delivered
+664,Chickpeas,62,698.18,43287.16,6/9/2022,Mireielle Senter,cash,383 Scoville Hill,shipped
+665,Chino Shorts,30,913.76,27412.8,10/30/2022,Nicolette Donkersley,credit card,49 Trailsway Court,shipped
+666,Protein Bar Variety Pack,67,393.65,26374.55,3/1/2024,Xymenes Fisby,check,37922 Holmberg Trail,delivered
+667,Vegan Chickpea Salad,53,657.86,34866.58,3/5/2024,Brina Jorck,cash,33482 Crowley Trail,delivered
+668,Rice Cakes,43,35.65,1532.95,6/16/2024,Brigg Borrington,credit card,2 Meadow Ridge Avenue,pending
+669,Yoga Blocks,2,277.57,555.14,12/21/2022,Amelia Tallowin,check,374 Sachtjen Road,pending
+670,Low-Fat Yogurt,50,91.49,4574.5,8/4/2022,Vivi Chinge,cash,85 Manley Court,shipped
+671,Italian Herb Balsamic Marinade,69,385.22,26580.18,9/24/2022,Devonne Joysey,credit card,1078 Browning Crossing,delivered
+672,Protein Powder,7,366.53,2565.71,5/20/2020,Karlan Haton,credit card,39 Meadow Vale Terrace,shipped
+673,Sketchbook,57,925.28,52740.96,9/1/2023,Fan Rattenberie,credit card,247 American Place,delivered
+674,Ginger Turmeric Tea,1,507.04,507.04,5/1/2021,Diann Hammerich,check,37 Eggendart Junction,delivered
+675,Stainless Steel Water Pitcher,37,370.67,13714.79,1/4/2021,Rafaela Niccolls,check,89 Hintze Trail,pending
+676,Self-Stirring Mug,42,513.81,21580.02,7/25/2020,Harlen Stapels,cash,47 Autumn Leaf Junction,delivered
+677,Sesame Garlic Noodles,90,770.56,69350.4,12/18/2023,Gabrila Lowy,check,9 Stuart Trail,delivered
+678,Honey Garlic Chicken,34,991.14,33698.76,10/19/2024,Jammie Roset,check,2 1st Parkway,pending
+679,Smartphone Tripod with Remote,19,941.48,17888.12,9/2/2021,Tilda Gaspard,credit card,0 Bashford Plaza,delivered
+680,Body Wash,75,253.54,19015.5,1/19/2025,Peyton Perrat,credit card,83104 Scott Hill,shipped
+681,Vegetable Pizza Rolls,64,710.65,45481.6,5/25/2025,Alvy Earle,credit card,2 West Circle,delivered
+682,Tomato Basil Pasta Sauce,2,783.18,1566.36,6/10/2021,Inger Mewhirter,credit card,251 Fremont Trail,shipped
+683,Whole Grain Cereal,31,221.47,6865.57,12/7/2024,Camile Asbery,check,87 Elgar Drive,pending
+684,Pet Hair Vacuum Attachment,90,834.26,75083.4,3/21/2020,Corbet Balcon,check,75 Lake View Center,shipped
+685,Compact Digital Camera,99,665.26,65860.74,5/8/2022,Katherina de Quincey,credit card,5899 Main Center,shipped
+686,Mechanical Keyboard,70,446.97,31287.9,2/17/2024,Romola Bondesen,cash,158 Gale Avenue,delivered
+687,Comfort Flats,46,391.46,18007.16,12/4/2022,Urban Shurville,cash,603 David Terrace,pending
+688,Cauliflower Pizza Crust,89,684.87,60953.43,1/21/2025,Philipa Hadaway,check,6 Stuart Terrace,pending
+689,Foot Massager,61,58.53,3570.33,10/30/2024,Lockwood Mayhew,check,1 Pawling Trail,pending
+690,Mango Chutney,9,590.61,5315.49,10/27/2024,Rafaelia Lobe,credit card,5210 Algoma Way,shipped
+691,Himalayan Pink Salt,10,999.1,9991.0,8/20/2023,Byran Studart,cash,147 Oak Valley Alley,delivered
+692,Peanut Butter Banana Smoothie,43,354.69,15251.67,9/30/2020,Marty Kitt,credit card,70 Mayfield Street,shipped
+693,Fruit Medley Juice,70,343.16,24021.2,10/14/2024,Inesita Evanson,credit card,19 Fordem Avenue,shipped
+694,Fitness Resistance Bands Kit,60,406.56,24393.6,11/10/2021,Rustie Beverage,cash,39 Marcy Alley,pending
+695,Savory Pumpkin Soup,3,523.4,1570.2,5/7/2025,Brock Woosnam,credit card,209 Dawn Way,pending
+696,Sweetened Condensed Milk,61,443.53,27055.33,5/22/2025,Lela Grayley,cash,66612 Rigney Street,pending
+697,Vegetarian Sausage Links,96,771.5,74064.0,7/9/2023,Cinda Whicher,cash,9346 Rieder Avenue,delivered
+698,Adjustable Resistance Bands,60,314.83,18889.8,4/29/2020,Porty Asche,cash,1 Sunfield Park,delivered
+699,Non-Stick Baking Sheet,69,373.54,25774.26,4/4/2024,Keri Greggor,credit card,7 Swallow Plaza,delivered
+700,Outdoor Adventure Kit,35,788.55,27599.25,12/5/2023,Anabal Whitsey,cash,4461 Golf View Trail,pending
+701,Organic Coconut Sugar,25,935.53,23388.25,10/2/2022,Yvon Bourdon,credit card,24010 Butternut Center,delivered
+702,Juice Extractor,42,301.54,12664.68,6/25/2023,Mendie Rogister,check,28179 South Crossing,pending
+703,Maple Pecan Granola,91,410.73,37376.43,4/22/2023,Dotti Vanstone,cash,10 Menomonie Avenue,pending
+704,Sweet Chili Thai Sauce,93,39.97,3717.21,9/7/2020,Eb Botte,credit card,04 Fairview Avenue,shipped
+705,Classic Cheesecake Mix,56,573.04,32090.24,12/1/2020,Claudie Heppenspall,credit card,100 Moulton Lane,shipped
+706,Chocolate Almond Milk,27,966.03,26082.81,6/10/2022,Joachim Abramamov,check,41085 Haas Park,shipped
+707,Electric Pressure Washer,7,87.83,614.81,1/31/2021,Garek Gyrgorwicx,check,9 International Hill,shipped
+708,Smartphone UV Sanitizer,65,597.81,38857.65,4/29/2022,Kiah Rahill,check,865 Golden Leaf Road,pending
+709,Smart Thermos,64,190.7,12204.8,12/21/2022,Karlan Gaize,cash,941 Elmside Plaza,shipped
+710,Granola Clusters,12,577.92,6935.04,11/2/2022,Ag Boreham,credit card,48 Moose Drive,delivered
+711,Almond Milk,27,459.5,12406.5,11/16/2020,Yvonne Bettlestone,check,68 Gina Point,delivered
+712,Athletic Sports Bra,46,170.25,7831.5,11/6/2021,Fair Iddons,credit card,56645 Muir Pass,shipped
+713,Luxury Bath Salts,96,437.54,42003.84,5/16/2021,Jay Heineking,cash,9 South Road,pending
+714,Vanilla Protein Powder,5,673.23,3366.15,10/8/2024,Paco McKellar,credit card,5731 Maple Junction,delivered
+715,Dark Chocolate Raisins,53,692.07,36679.71,10/24/2020,Rhonda Landells,credit card,50 Harbort Way,pending
+716,Luxury Yoga Mat,22,880.32,19367.04,12/8/2024,Mattias Strelitzer,credit card,749 Northridge Park,shipped
+717,Tandoori Chicken Skewers,39,255.75,9974.25,5/18/2021,Lev Struss,check,5 Fairview Trail,delivered
+718,Window Blinds,25,554.18,13854.5,6/17/2022,Annis McCahill,check,931 1st Place,pending
+719,Travel Mug with Leak-Proof Lid,77,264.09,20334.93,9/16/2022,Cosette Pllu,check,49045 Myrtle Plaza,shipped
+720,Cold Brew Coffee Concentrate,57,245.93,14018.01,6/22/2021,Gipsy Dodshun,credit card,85 Summerview Drive,pending
+721,Wireless Charging Station,23,47.29,1087.67,1/2/2025,Amory Wiffill,check,0 Chinook Parkway,shipped
+722,Coffee Grinder,65,698.13,45378.45,3/20/2025,Coralie Mabe,cash,9 Wayridge Terrace,delivered
+723,Dried Mango Slices,49,223.21,10937.29,2/10/2021,Layne Grelak,credit card,9503 Southridge Pass,shipped
+724,Italian Herb Balsamic Marinade,91,952.01,86632.91,3/13/2020,Andee Corden,check,7 Acker Court,pending
+725,Acoustic Guitar,80,900.38,72030.4,2/23/2022,Thibaud Durie,credit card,3165 Knutson Pass,delivered
+726,Sliced Ham,22,915.31,20136.82,11/10/2021,Randie Theze,cash,37 Katie Avenue,delivered
+727,Thyme,46,956.21,43985.66,5/13/2022,Darby Briztman,check,40286 Merrick Court,pending
+728,Baked Falafel,46,587.02,27002.92,10/12/2020,Trenna Vaughten,check,7 Chive Place,shipped
+729,Tea Infuser,95,87.53,8315.35,7/9/2023,Corny Eusden,credit card,93 Upham Road,shipped
+730,Herb-Infused Olive Oil,85,439.28,37338.8,7/20/2022,Carlo Busk,check,6839 Scofield Circle,shipped
+731,Organic Black Rice,81,993.35,80461.35,1/25/2023,Pierson Winspare,cash,432 Sachtjen Drive,shipped
+732,Nutty Granola Clusters,1,942.01,942.01,11/16/2023,Lorna Flahive,check,94 Harbort Junction,delivered
+733,Shoe Organizer,94,549.7,51671.8,4/29/2024,Jude Cheverton,credit card,105 Roxbury Plaza,pending
+734,Classic Slim Fit Shirt,85,136.9,11636.5,8/27/2023,Gamaliel Chadwin,check,93 Sherman Trail,delivered
+735,Wireless Earbud Silicone Covers,38,986.51,37487.38,2/17/2022,Audrey McEvoy,credit card,49657 Onsgard Circle,shipped
+736,Beef Enchilada Casserole,64,851.72,54510.08,12/31/2022,Audry McMennum,credit card,07714 Barnett Plaza,shipped
+737,Coconut Cream Pie Yogurt,71,138.14,9807.94,8/15/2022,Emelita McCrainor,cash,71667 Mallard Parkway,pending
+738,Salt and Pepper Grinder Set,59,584.32,34474.88,10/4/2021,Clifford Meecher,check,2 Springs Center,delivered
+739,Smart LED Light Strip,68,704.24,47888.32,8/20/2020,Berk Imbrey,check,1441 Daystar Hill,pending
+740,Cordless Electric Screwdriver,82,560.94,45997.08,8/14/2020,Adan Lohmeyer,cash,2 Talmadge Center,pending
+741,DIY Lip Balm Kit,9,50.62,455.58,6/15/2021,Shell Scarce,cash,0 Ridgeview Terrace,shipped
+742,Sweet Potato and Chickpea Bowl,57,7.53,429.21,7/17/2022,Jacquelyn Dilleston,credit card,91 Manitowish Way,shipped
+743,Baking Soda,48,411.51,19752.48,3/15/2023,Grover Bucknall,check,0 Kedzie Drive,delivered
+744,Leather Notebook Cover,80,737.75,59020.0,5/26/2020,Barb Misselbrook,cash,1871 Warner Plaza,delivered
+745,Indestructible Dog Toy,35,358.08,12532.8,12/22/2024,Andi Monkeman,credit card,276 Dayton Way,delivered
+746,LED Strip Light Kit,19,913.08,17348.52,4/23/2021,Sabrina Juszczak,credit card,6399 Lotheville Street,shipped
+747,Chewy Granola Bars,50,727.32,36366.0,10/23/2021,Phoebe Croxon,cash,4 Mifflin Circle,pending
+748,Granola Clusters,55,846.91,46580.05,5/22/2024,Yovonnda McEvon,check,631 Kropf Road,delivered
+749,Foldable Yoga Mat Carry Bag,46,173.72,7991.12,7/5/2023,Geoff McIan,credit card,0 Mallard Crossing,shipped
+750,Children's Musical Instrument Set,94,506.57,47617.58,2/10/2020,Dolli Mudle,cash,6 Buell Center,shipped
+751,Smoked Paprika Chicken Thighs,50,630.36,31518.0,9/12/2021,Delora Secrett,credit card,12131 Petterle Circle,shipped
+752,Interchangeable Watch Bands,70,521.5,36505.0,8/7/2022,Pepe Piquard,credit card,9 Morning Junction,pending
+753,Vegetarian Chili,8,793.53,6348.24,3/26/2022,Elfie Lavigne,check,30 Eagan Park,shipped
+754,Herb Seasoned Rice,21,723.82,15200.22,7/10/2024,Bev Dael,cash,33044 Leroy Circle,shipped
+755,Almond Flour Biscuits,29,52.87,1533.23,10/18/2022,Cam Helin,credit card,9 Mallard Road,delivered
+756,Grapes (red),74,468.43,34663.82,7/8/2021,Vanya Skyrme,cash,546 Loomis Crossing,delivered
+757,Decorative LED Neon Sign,20,643.14,12862.8,4/13/2021,Debi Massie,credit card,7 Kingsford Avenue,shipped
+758,Almond Coconut Granola,41,35.22,1444.02,7/25/2024,Ward Chazier,cash,73141 Calypso Terrace,pending
+759,Self-Massaging Pillow,74,427.41,31628.34,8/7/2022,Quentin Ternault,check,787 Anhalt Crossing,delivered
+760,Weighted Blanket,32,260.23,8327.36,5/4/2023,Ciel Orteau,credit card,0776 Hudson Drive,pending
+761,Spicy Tuna Sushi Kit,49,908.72,44527.28,7/1/2023,Laney Monteaux,check,8 Acker Place,shipped
+762,Interactive Plush Toy,94,222.35,20900.9,3/31/2025,Bernadette Hasloch,cash,3 Caliangt Parkway,delivered
+763,Denim Jacket,61,112.76,6878.36,3/23/2025,Byran Dunbobin,cash,35 Spenser Avenue,shipped
+764,Weighted Blanket,19,697.28,13248.32,2/3/2025,Anett Newall,cash,85 Independence Plaza,delivered
+765,Italian Meatballs,24,479.92,11518.08,10/19/2020,Shelby Pingston,credit card,9990 Waubesa Court,delivered
+766,Professional Chef Knife,77,370.1,28497.7,9/10/2022,Judah Budik,cash,7 Farmco Hill,shipped
+767,Chocolate Mint Cookies,47,141.51,6650.97,2/9/2023,Gilbert Besse,credit card,10 Algoma Place,shipped
+768,Essential Oils Diffuser Necklace,8,692.35,5538.8,6/5/2025,Ekaterina Iacovazzi,check,4303 Waubesa Hill,delivered
+769,Protein Bar Variety Pack,51,240.42,12261.42,9/7/2021,Osbourne Scala,credit card,97823 Kim Crossing,pending
+770,Laptop Stand,66,171.88,11344.08,6/23/2022,Ginnifer William,check,439 Grasskamp Plaza,pending
+771,Pet Tracking Collar,7,183.21,1282.47,2/27/2025,Joachim Blandamere,credit card,4 Warner Terrace,delivered
+772,Zucchini Noodle Pasta,94,934.91,87881.54,6/4/2020,Rad Rigney,credit card,6679 Nobel Point,pending
+773,Compact Hair Dryer,8,304.47,2435.76,4/18/2025,Ambrosius Babb,credit card,42739 Ramsey Drive,shipped
+774,Pet Bed,99,39.48,3908.52,11/21/2021,Tamarah Lamberto,check,557 Anderson Drive,shipped
+775,Cotton Tote Bag Set,28,701.36,19638.08,12/15/2023,Noami McDade,cash,421 Pennsylvania Junction,pending
+776,Mini Indoor Herb Garden Kit,17,969.03,16473.51,5/7/2023,Bartolomeo Webby,credit card,92387 Anhalt Point,pending
+777,Californian Raisins,24,698.47,16763.28,3/20/2020,Willis Mucillo,check,96386 Elgar Alley,delivered
+778,Garlic Breadsticks,68,492.44,33485.92,11/23/2023,Bobbee Fanner,check,068 Little Fleur Terrace,delivered
+779,Vegetable Stir-Fry Sauce,84,39.87,3349.08,5/18/2025,Caroljean Narducci,check,18257 Hollow Ridge Point,shipped
+780,Gardening Tools Set,65,6.27,407.55,7/16/2021,Yalonda Frantzeni,cash,7 American Ash Drive,delivered
+781,Savory Breakfast Sausage,95,645.02,61276.9,2/13/2020,Ezra Canto,credit card,931 Golf Street,delivered
+782,Sliced Cucumbers,48,869.18,41720.64,12/6/2024,Efren Athridge,check,2553 Hanson Drive,shipped
+783,Lemon Dill Chicken Skewers,16,66.7,1067.2,4/29/2023,Issie Amerighi,cash,57 Tennyson Road,pending
+784,Oven-Baked Sweet Potato Fries,72,74.51,5364.72,7/7/2023,Corrie Betz,check,68886 Forest Run Crossing,shipped
+785,Reclining Camping Chair,6,207.99,1247.94,6/10/2023,Melonie Woolner,check,15609 Heffernan Trail,pending
+786,Lasagna Noodles,37,304.17,11254.29,7/27/2023,Nydia Mattea,check,09972 Stang Avenue,pending
+787,Digital Wireless Camera,60,222.64,13358.4,11/1/2023,Solly Woodsford,check,0 Algoma Alley,pending
+788,Non-Toxic Concrete Sealer,28,201.97,5655.16,6/3/2024,Wyatan Manifould,credit card,624 Canary Place,delivered
+789,Dried Mango Slices,78,644.69,50285.82,3/3/2020,Otis Jirusek,credit card,3 Leroy Crossing,pending
+790,Greek Yogurt,26,515.59,13405.34,11/24/2021,Delphinia Whartonby,check,278 Gerald Plaza,shipped
+791,Children's Garden Tool Set,81,869.23,70407.63,11/15/2021,Quincey Kilrow,check,704 Fremont Alley,shipped
+792,Granulated Sugar,66,997.59,65840.94,6/14/2021,Obie Munt,check,9 Ramsey Pass,shipped
+793,Beef Chili,22,831.9,18301.8,12/16/2020,Zacharia Kohrding,cash,04 Main Place,delivered
+794,Outdoor Fire Pit,53,360.79,19121.87,11/24/2021,Verine Peatt,cash,4499 Bunting Alley,shipped
+795,Vanilla Bean Greek Yogurt,66,363.48,23989.68,5/9/2022,Jaymee Josskowitz,cash,0 Oriole Avenue,shipped
+796,Cinnamon Rolls,75,768.13,57609.75,4/20/2020,Alena Priver,check,4038 Fieldstone Trail,pending
+797,Classic BBQ Sauce,45,840.82,37836.9,4/24/2025,Germaine Thomke,check,88 Golf Course Place,shipped
+798,High-Low Hem Tee,59,702.4,41441.6,5/3/2020,Sharity Beesey,check,7 Oneill Avenue,pending
+799,Spaghetti Sauce,19,284.05,5396.95,11/3/2024,Cele Boissier,cash,76162 Bellgrove Road,pending
+800,High-Speed Blender,90,12.02,1081.8,8/17/2021,Phil Voaden,check,5344 Del Sol Place,pending
+801,Gluten-Free Biscuits,6,917.27,5503.62,1/4/2023,Gannie Everil,cash,0 Fordem Trail,shipped
+802,Coconut Cashew Yogurt,47,280.93,13203.71,11/20/2020,Nevsa Rougier,cash,0 Lighthouse Bay Way,pending
+803,Spinach and Cheese Stuffed Shells,11,512.44,5636.84,1/6/2025,Waly Bagehot,credit card,693 Raven Lane,delivered
+804,Garlic Herb Cream Cheese,42,671.17,28189.14,12/17/2021,Jania Tackett,cash,14 Evergreen Court,delivered
+805,Compact Folding Table,13,229.82,2987.66,6/10/2020,Gisela Bellino,credit card,2 Derek Pass,shipped
+806,Noise-Canceling Earbuds,3,574.43,1723.29,3/2/2022,Raimondo Luker,check,0 American Trail,shipped
+807,Foam Muscle Roller,99,389.76,38586.24,5/24/2023,Gabriello Lille,cash,0 American Ash Trail,shipped
+808,Honey Sesame Chicken,92,279.56,25719.52,1/3/2023,Gloria Coppin,credit card,7850 Straubel Road,shipped
+809,Comfortable Jogger Pants,2,668.29,1336.58,8/2/2021,Geoffry Remington,check,26272 Di Loreto Terrace,pending
+810,Pita Bread,50,241.49,12074.5,2/21/2020,Verge Cuell,check,56679 Birchwood Terrace,pending
+811,Caraway Rye Bread,48,812.66,39007.68,4/3/2025,Carolin Gradon,credit card,821 Farmco Way,pending
+812,Thai Red Curry Paste,67,343.35,23004.45,1/13/2025,Winnah Maskill,cash,92 Green Ridge Plaza,shipped
+813,Pistachios,80,888.1,71048.0,11/5/2021,Darin Beddin,cash,416 Fair Oaks Crossing,delivered
+814,Wireless Car Charger,97,530.3,51439.1,9/14/2024,Rhiamon Tremouille,credit card,9 Mccormick Junction,pending
+815,Potting Soil,24,344.95,8278.8,10/4/2024,Hillyer Emps,cash,48455 Paget Street,pending
+816,LED Desk Lamp with USB Charging Port,39,262.31,10230.09,5/1/2023,Eran Wooton,check,4 Anthes Avenue,shipped
+817,Rice Noodles,74,181.14,13404.36,9/5/2021,Robers Sibun,check,4569 Holy Cross Avenue,delivered
+818,Honey-Balsamic Vinaigrette,54,309.74,16725.96,3/24/2023,Marlane Kermit,check,7 4th Court,pending
+819,Grass Fed Beef Patties,21,57.93,1216.53,3/21/2025,Madelina Groucutt,cash,55822 7th Crossing,pending
+820,Pasta Primavera Kit,23,278.43,6403.89,12/9/2022,Winfred Marjanski,cash,58091 3rd Place,pending
+821,Cranberry Citrus Sauce,72,915.37,65906.64,2/6/2022,Isidro Haslin,cash,846 Vidon Lane,delivered
+822,Coconut Cashew Yogurt,1,992.03,992.03,1/6/2020,Aigneis Burchess,check,9735 8th Plaza,delivered
+823,Pet Nail Clipper,86,401.08,34492.88,12/21/2023,Jemie Scotchbrook,credit card,266 Dayton Terrace,pending
+824,Portable Pet Water Bottle,60,494.65,29679.0,8/4/2023,Kit Rockhall,cash,8023 Roth Lane,pending
+825,Wireless Smart Plug,52,641.43,33354.36,5/27/2021,Cayla Biggadyke,credit card,24 Kropf Circle,delivered
+826,Vegetable Spring Rolls,3,79.43,238.29,2/4/2025,Walsh Saltman,cash,30 David Drive,delivered
+827,Stainless Steel Water Pitcher,54,66.11,3569.94,11/1/2021,Kellina McTurley,check,99465 Blaine Crossing,delivered
+828,Cauliflower Rice Stir-Fry,92,583.87,53716.04,1/31/2020,Hernando Scrammage,credit card,4 Armistice Park,pending
+829,Natural Soy Candles,47,564.12,26513.64,7/29/2023,Steve Turneux,credit card,58 Graceland Street,shipped
+830,Bluetooth Car Adapter,8,727.58,5820.64,11/7/2021,Greggory Barlee,cash,230 Bunker Hill Avenue,shipped
+831,Garlic Parmesan Wings,68,160.61,10921.48,4/4/2020,Thorny Kimbrey,cash,6 Dakota Avenue,pending
+832,Pet Hair Vacuum Attachment,94,879.06,82631.64,5/18/2021,Amelia O'Kinedy,check,8 Lunder Alley,shipped
+833,Himalayan Salt Grinder,29,807.45,23416.05,3/10/2021,Arlin Conring,check,03 Graceland Center,shipped
+834,Sweet Potatoes,76,631.69,48008.44,3/12/2022,Maurizia Sumpton,cash,65 Twin Pines Crossing,shipped
+835,Fitness Resistance Bands,18,2.51,45.18,11/22/2020,Goldia Clines,credit card,4396 Bonner Pass,shipped
+836,Cucumber,71,622.67,44209.57,7/31/2021,Phedra Chiverstone,credit card,8 Logan Road,delivered
+837,Elegant Maxi Skirt,37,649.61,24035.57,2/10/2023,Colly Jenyns,cash,7716 Dennis Avenue,delivered
+838,Coffee Subscription Service,84,747.57,62795.88,9/1/2021,Jean Spellesy,credit card,4 Acker Road,delivered
+839,Denim Jacket,76,571.57,43439.32,8/14/2023,Terry Enderson,credit card,8108 Hoard Pass,pending
+840,Yoga Blocks,30,781.88,23456.4,12/11/2020,Nicoli Gravell,check,047 Muir Lane,pending
+841,Portable Leaf Blower,18,48.89,880.02,3/2/2021,Archy Oldall,credit card,13944 Novick Crossing,shipped
+842,Portable Air Purifier,14,367.81,5149.34,11/9/2023,Billy Crittal,credit card,38 Katie Terrace,shipped
+843,Compressible Packing Cubes,35,543.09,19008.15,1/19/2020,Buffy Kiddie,credit card,63 Sunbrook Trail,shipped
+844,Buffalo Chicken Dip,52,832.98,43314.96,8/11/2024,Karlik Bohea,check,5 Schmedeman Court,delivered
+845,Portable Camping Shower,81,571.82,46317.42,7/31/2021,Georgianna Cluelow,credit card,077 Red Cloud Trail,pending
+846,Spicy Snack Mix,43,36.9,1586.7,5/24/2024,Carma Polsin,cash,579 Kinsman Avenue,pending
+847,Organic Whole Wheat Flour,9,734.48,6610.32,8/16/2023,Regan Dy,credit card,609 Butterfield Avenue,delivered
+848,Magnetic Spice Containers,4,402.72,1610.88,5/30/2024,Barbra Mably,credit card,7370 Kenwood Place,delivered
+849,Kettle BBQ Grill,66,578.04,38150.64,3/30/2020,Max Gligoraci,cash,85 Red Cloud Junction,delivered
+850,Organic Coconut Flakes,79,770.21,60846.59,9/13/2024,Jillane Shallow,cash,54108 Hazelcrest Center,shipped
+851,Set of Measuring Spoons,3,616.96,1850.88,2/22/2025,Edmund Topp,cash,20115 Independence Hill,delivered
+852,Blueberry Chia Jam,76,253.53,19268.28,11/11/2021,Christiane Norcott,credit card,78 Pearson Drive,delivered
+853,Wild Rice Pilaf,99,326.26,32299.74,9/24/2021,Algernon Netherwood,cash,12 North Center,pending
+854,Tennis Racket,35,343.19,12011.65,6/11/2024,Fonzie Leopard,check,2119 Lindbergh Point,delivered
+855,Interactive Plush Toy,68,196.5,13362.0,9/4/2020,Luis Elleton,check,79 Farwell Junction,pending
+856,Coconut Bowls Set,51,6.58,335.58,12/27/2020,Shina Adriaan,check,3 Warbler Place,pending
+857,Adjustable Yoga Mat Strap,8,247.28,1978.24,3/20/2024,Vinny Hadleigh,credit card,4 Lighthouse Bay Parkway,pending
+858,Frozen Fruit Medley,4,843.92,3375.68,12/11/2023,Alic Hesse,check,09304 Towne Road,pending
+859,Coconut Chips,13,976.17,12690.21,3/19/2025,Glenn Jeanesson,check,48 Bluestem Junction,pending
+860,Decorative Wall Tapestry,64,348.04,22274.56,10/18/2020,Miran Siemandl,cash,022 1st Street,shipped
+861,Pumpkin Pancake Mix,59,222.86,13148.74,10/4/2020,Bartolomeo Robuchon,check,48 Bultman Junction,delivered
+862,Avocado Oil,50,640.79,32039.5,6/18/2020,Vinson Janeczek,credit card,54532 Becker Plaza,pending
+863,Ginger Turmeric Shots,82,793.83,65094.06,4/30/2020,Chiquita Cartmill,credit card,28248 Blue Bill Park Parkway,shipped
+864,Chicken Sausage,21,826.77,17362.17,1/6/2024,Madelene Daines,cash,447 Valley Edge Lane,shipped
+865,Blackberry Compote,69,970.77,66983.13,2/3/2025,Fanni Egell,cash,513 Lakewood Junction,shipped
+866,Adjustable Dumbbells,81,946.03,76628.43,4/11/2023,Terri Yuranovev,credit card,3 Charing Cross Avenue,shipped
+867,Quality Chef Apron,70,457.73,32041.1,1/8/2024,Daria Ivancevic,cash,30568 Clyde Gallagher Park,shipped
+868,Mango Salsa,96,543.04,52131.84,1/25/2023,Way Prebble,check,07 Ridgeway Road,pending
+869,Scented Candles,100,676.01,67601.0,11/1/2020,Andie Tirone,check,725 Superior Terrace,shipped
+870,Sesame Garlic Noodles,79,640.95,50635.05,11/23/2022,Blondell Dutson,credit card,4 Moland Alley,delivered
+871,Body Pillow Case,3,631.61,1894.83,12/28/2023,Gasper Ambroziak,cash,037 Chive Road,delivered
+872,Garden Hose,20,330.16,6603.2,7/15/2020,Enriqueta Ogden,check,593 7th Park,pending
+873,Salt and Pepper Grinder Set,17,989.64,16823.88,1/8/2022,Loretta Brigden,check,4050 Mccormick Way,shipped
+874,Spicy Garlic Edamame,34,61.46,2089.64,2/18/2023,Stavros Agius,cash,0457 Towne Plaza,delivered
+875,Heavy-Duty Utility Tote,41,926.57,37989.37,2/22/2025,Dru Peterson,check,7618 Forest Crossing,delivered
+876,LED Desk Lamp with USB Charging Port,1,340.5,340.5,5/28/2024,Arvy Bradnock,check,60 Cascade Center,delivered
+877,Adjustable Height Standing Desk Converter,70,797.19,55803.3,1/13/2023,Finlay Beathem,cash,1815 Marcy Plaza,delivered
+878,Vegetable Spiralizer,67,904.78,60620.26,10/28/2023,Catina Macartney,credit card,6 Canary Plaza,pending
+879,Body Wash,87,32.41,2819.67,5/18/2025,Diannne Fiddiman,cash,697 Paget Avenue,pending
+880,Garlic Naan Bread,61,974.3,59432.3,9/25/2023,Quincy Coltart,cash,971 Heffernan Way,pending
+881,Nutty Trail Mix,65,36.43,2367.95,6/24/2024,Danila Januszkiewicz,cash,56833 Red Cloud Trail,pending
+882,Pet Carrier,29,31.94,926.26,6/9/2022,Royal Iacovuzzi,cash,19086 Florence Alley,shipped
+883,Honey Nut Cheerios,49,980.06,48022.94,12/5/2021,Ellis Edelheid,check,634 Maple Wood Way,delivered
+884,Personalized Cutting Board,91,80.1,7289.1,4/9/2024,Gaelan Kener,cash,0266 Pond Lane,shipped
+885,Beach Cover-Up,6,64.12,384.72,5/15/2021,Chiquia Storrock,cash,30 Tony Junction,shipped
+886,Crispy Tofu Bites,1,332.52,332.52,9/13/2020,Benny Pien,check,813 Anhalt Point,delivered
+887,Balsamic Glazed Brussels Sprouts,63,717.21,45184.23,4/9/2021,Karrie Paul,cash,6 Oakridge Point,delivered
+888,Trainers with Mesh Inserts,28,914.9,25617.2,2/12/2022,Loni Schott,credit card,13361 Stang Trail,pending
+889,Gardening Gloves,3,825.94,2477.82,11/9/2024,Adrianne Symcock,check,4 Lillian Street,delivered
+890,Window Bird Feeder with Suction Cups,89,764.42,68033.38,9/12/2024,Devon Arntzen,cash,15834 Meadow Vale Street,shipped
+891,Memory Foam Mattress Pad,62,542.68,33646.16,9/25/2020,Hortense Valencia,credit card,7306 Oakridge Terrace,shipped
+892,Plant-Based Protein Bars,63,375.02,23626.26,1/18/2022,Aggi Christaeas,credit card,9127 Mendota Drive,shipped
+893,Cabbage,51,445.92,22741.92,2/26/2023,Maje Blackley,cash,50 Del Sol Place,pending
+894,Personal Blender with Travel Cup,73,419.17,30599.41,1/23/2024,Gayler Dealey,check,0092 Shopko Terrace,delivered
+895,Portable Bluetooth Keyboard,25,441.22,11030.5,4/26/2023,Cindee McCrackan,check,909 Upham Circle,pending
+896,Veggie Chips Variety Pack,91,990.44,90130.04,10/3/2021,Meris Scamp,cash,162 Cambridge Circle,pending
+897,Asian Noodle Salad Kit,76,898.36,68275.36,5/2/2023,Guss Ancell,check,4 Northview Avenue,shipped
+898,Paprika,79,65.7,5190.3,12/16/2023,Horatio Fante,credit card,3 Jay Alley,shipped
+899,Maxi Wrap Dress,82,67.23,5512.86,4/28/2025,Hiram Kinavan,credit card,396 Bowman Plaza,shipped
+900,Sea Salt Caramel Brownie,33,249.59,8236.47,4/18/2025,Blair Marland,credit card,20 Carberry Place,delivered
+901,Handheld Vacuum,63,674.8,42512.4,2/12/2024,Etan Hehl,credit card,6 Butterfield Drive,shipped
+902,Savory Trail Mix,8,248.98,1991.84,8/8/2022,Mella Plumbley,check,8 Rusk Drive,pending
+903,Flavored Instant Oatmeal,43,261.01,11223.43,3/14/2021,Alysa Wallbutton,check,66224 Mandrake Circle,delivered
+904,Outdoor Adventure Kit,62,58.6,3633.2,7/3/2021,Pearle Castledine,credit card,62203 Amoth Trail,delivered
+905,Sliced Turkey Breast,61,194.41,11859.01,3/20/2022,Inesita Blanning,credit card,2811 Anthes Junction,shipped
+906,Watercolor Paint Set,73,344.1,25119.3,5/22/2021,Fraser Poppy,credit card,70 Saint Paul Way,delivered
+907,Garden Tool Set,58,815.6,47304.8,4/16/2021,Clarinda Adamkiewicz,check,7 Onsgard Trail,shipped
+908,Set of Herb Garden Markers,34,165.76,5635.84,5/1/2024,Grayce Puckring,check,62 International Terrace,delivered
+909,Rainbow Veggie Chips,2,943.82,1887.64,12/12/2023,Raviv Ellerton,credit card,1 Stoughton Parkway,pending
+910,Comfort Flats,69,106.46,7345.74,5/12/2025,Henrie MacCarter,credit card,4 Valley Edge Crossing,shipped
+911,Tailgating Set,41,577.44,23675.04,1/21/2022,Marillin Junes,check,96 Warrior Way,pending
+912,Pesto Pasta Sauce,93,643.08,59806.44,7/7/2021,Hughie Mound,credit card,5 Clarendon Crossing,delivered
+913,Microfiber Cleaning Cloth Set,7,382.88,2680.16,1/9/2020,Nana Bartlosz,credit card,552 Heath Crossing,shipped
+914,Artisan Bread,43,510.88,21967.84,3/22/2023,Callie Bothe,cash,89 Bowman Street,shipped
+915,Insulated Wine Tote,12,610.96,7331.52,3/20/2022,Darrell Underwood,check,7 International Plaza,shipped
+916,Organic Black Rice,85,192.12,16330.2,2/23/2022,Shell Stonebridge,credit card,51690 Nobel Hill,delivered
+917,Gluten-Free Pancake Mix,35,984.89,34471.15,2/27/2025,Harlen Del Dello,credit card,140 Susan Road,pending
+918,Watercolor Set,35,186.19,6516.65,4/9/2021,Thaxter Jellett,cash,52347 Lighthouse Bay Road,shipped
+919,Air Mattress,1,47.21,47.21,7/18/2021,Lorelle Blackbourn,credit card,4050 Buena Vista Avenue,pending
+920,Foldable Yoga Mat Carry Bag,97,844.58,81924.26,7/4/2024,Wynny Chellingworth,cash,6174 Bowman Terrace,shipped
+921,Teriyaki Stir-Fry Sauce,2,753.18,1506.36,3/11/2021,Mikey Crayke,cash,05 Buhler Center,pending
+922,Sporty Cap,22,755.91,16630.02,7/7/2022,Thom Gladdolph,check,1904 Springs Crossing,shipped
+923,Honey Mustard Pretzel Bites,4,34.99,139.96,6/11/2021,Erminie Gahan,check,67514 La Follette Court,pending
+924,Adjustable Pet Feeder,60,364.57,21874.2,9/8/2022,Munmro Shorrock,credit card,11 Nelson Terrace,delivered
+925,Digital Drawing Tablet,70,871.75,61022.5,1/28/2022,Jessi Tickel,credit card,259 Lien Hill,pending
+926,Carrot Sticks,96,115.95,11131.2,7/21/2024,Gunther Dandie,cash,7 Talmadge Lane,delivered
+927,Fresh Strawberries,78,855.76,66749.28,8/10/2020,Obidiah Gerhardt,credit card,5162 Buena Vista Hill,delivered
+928,Robot Vacuum Cleaner,25,439.92,10998.0,8/7/2022,Gustave McConaghy,credit card,68689 Butternut Avenue,delivered
+929,Organic Quinoa,79,600.37,47429.23,12/10/2023,Johnna Scamal,credit card,536 Redwing Center,pending
+930,Peanut Butter Banana Smoothie Mix,99,281.43,27861.57,9/20/2022,Abram Duny,check,8 Waywood Park,delivered
+931,Vanilla Ice Cream,59,523.44,30882.96,3/13/2024,Emelia Pallas,check,1940 Towne Pass,shipped
+932,Black Bean Spaghetti,39,490.85,19143.15,5/21/2025,Jody Landor,check,4514 Saint Paul Junction,delivered
+933,Maple Syrup,86,750.42,64536.12,7/12/2024,Weidar Raise,check,13020 Luster Crossing,shipped
+934,Foam Building Blocks for Kids,86,631.89,54342.54,2/7/2020,Binni Costard,credit card,6 Schlimgen Park,shipped
+935,Wall Calendar,47,607.03,28530.41,8/21/2022,Myrle Bonny,cash,9 Westerfield Junction,delivered
+936,Sliced Ham,25,300.19,7504.75,8/25/2021,Moe MacGall,cash,41 Monterey Pass,shipped
+937,Weighted Jump Rope,42,780.46,32779.32,6/27/2020,Kip Hayth,credit card,2 Homewood Center,delivered
+938,Whipped Cream Cheese,65,131.07,8519.55,12/9/2022,Heddie Challenger,cash,370 Laurel Street,delivered
+939,Sunglasses Case,99,284.49,28164.51,11/5/2023,Galvan Lowdwell,check,0812 Menomonie Alley,pending
+940,Pet Safety Harness,72,589.89,42472.08,1/23/2024,Tucky Vany,check,061 Commercial Center,delivered
+941,Backpacking Tent,14,101.68,1423.52,2/8/2021,Cloe Huggin,check,11 Merchant Place,pending
+942,Cranberry Almond Granola,85,512.4,43554.0,12/7/2020,Robyn felip,cash,70157 Fulton Hill,delivered
+943,Sourdough Bread,78,769.29,60004.62,1/24/2020,Danita Ligertwood,cash,46 Derek Junction,pending
+944,Plant-Based Meal Prep Containers,55,809.39,44516.45,9/24/2020,Klaus Dowears,check,09295 Messerschmidt Park,pending
+945,Vegetarian Pizza,62,989.55,61352.1,4/14/2024,Bondie Pelzer,cash,4692 Main Court,pending
+946,Smart Light Bulbs,9,938.74,8448.66,2/15/2020,Darrick Bownde,cash,12 Hooker Road,shipped
+947,Rice Cakes,83,962.43,79881.69,2/3/2023,Brandi Sibbit,check,1351 Alpine Drive,shipped
+948,Multi-Purpose Marine Rope,95,395.92,37612.4,2/22/2021,Darla Balser,credit card,5 Glendale Trail,delivered
+949,Himalayan Pink Salt,30,637.93,19137.9,6/7/2022,Chantalle Menco,check,32335 Weeping Birch Alley,pending
+950,Kids' Educational Tablet,40,655.15,26206.0,1/4/2020,Suzann Pantling,cash,48055 Hazelcrest Terrace,pending
+951,Memory Foam Mattress Topper,56,878.02,49169.12,7/9/2020,Albertina Drugan,cash,5140 Schmedeman Avenue,shipped
+952,Insulated Lunch Bag,56,300.85,16847.6,12/7/2024,Emlen Oscroft,cash,98 Fuller Crossing,shipped
+953,Tailored Blazer,48,667.0,32016.0,5/28/2022,Jacintha Woodfield,credit card,7022 Emmet Pass,pending
+954,Bodyweight Resistance Bands,26,387.75,10081.5,11/16/2023,Netti MacGibbon,credit card,1261 Homewood Street,pending
+955,Shredded Cheese,89,987.62,87898.18,6/25/2020,Erek Cruickshank,cash,0185 Evergreen Place,shipped
+956,Adjustable Laptop Stand,32,166.94,5342.08,3/11/2025,Gabi Wellesley,check,90710 Shoshone Pass,pending
+957,Aeropress Coffee Maker,24,869.51,20868.24,4/7/2021,Martha Crose,check,93 Graedel Lane,pending
+958,Chia Seed Pudding Mix,34,14.57,495.38,6/15/2020,Nicolis Waggitt,credit card,59602 Havey Pass,pending
+959,Whole Chicken,88,265.85,23394.8,2/12/2025,Goddard Matthiae,check,7779 Texas Lane,shipped
+960,Mayonnaise,31,34.96,1083.76,7/17/2021,Lucius Stiell,cash,37 Carey Alley,delivered
+961,Winter Knit Beanie,54,877.13,47365.02,9/12/2020,Augustine Pittam,credit card,74406 Hintze Alley,shipped
+962,Crispy Kale Chips,31,241.71,7493.01,7/13/2021,Kaylee Reoch,credit card,9 Saint Paul Lane,delivered
+963,Lentil Vegetable Curry,7,147.94,1035.58,3/28/2022,Daphne Cudbertson,check,319 South Junction,shipped
+964,Cucumber Relish,66,876.6,57855.6,3/15/2025,Waiter Aiton,cash,92 Cottonwood Drive,shipped
+965,Italian Meatballs,27,239.44,6464.88,2/16/2022,Shepperd Lehmann,cash,748 Graceland Parkway,delivered
+966,Pet Hair Remover,28,676.35,18937.8,11/28/2021,Helli Pilipets,check,78 East Circle,pending
+967,Mushroom Soup (canned),79,441.3,34862.7,10/13/2024,Roze Zumbusch,check,1417 Mesta Alley,delivered
+968,Vegetable Lasagna,1,409.4,409.4,1/5/2022,Ursala Barlass,check,92594 Burrows Junction,delivered
+969,Cable Knit Beanie,35,115.25,4033.75,3/5/2023,Melly Wetherhead,cash,5 Ridgeview Point,shipped
+970,Classic BBQ Sauce,14,911.05,12754.7,10/17/2022,Jason Goford,check,10448 Pearson Road,shipped
+971,Gluten-Free Biscuits,69,718.16,49553.04,5/30/2021,Lorelle Woofenden,check,758 Main Lane,shipped
+972,Mini Air Purifier,3,632.39,1897.17,12/20/2022,Niki Katte,credit card,90 Schurz Trail,pending
+973,DIY Lip Balm Making Kit,15,86.44,1296.6,5/2/2020,Jasper Stronge,check,3190 Montana Avenue,pending
+974,Tomato Basil Soup,54,364.93,19706.22,9/25/2023,Erich Willcott,cash,96 Hayes Place,delivered
+975,Stainless Steel Straws,7,331.44,2320.08,12/2/2023,York Bagguley,cash,338 Eastlawn Parkway,pending
+976,Curried Lentil Salad,95,420.77,39973.15,3/11/2023,Madge Yewman,credit card,273 Fairview Court,shipped
+977,Greek Yogurt Parfait,88,855.47,75281.36,6/13/2024,Hanny Kryska,check,2 Mitchell Junction,shipped
+978,Cucumber Relish,72,478.52,34453.44,2/23/2025,Raquel Reditt,check,6 Northfield Trail,pending
+979,LED Flashlight,31,211.33,6551.23,5/12/2025,Rodney Milne,check,60 Grayhawk Street,pending
+980,Cinnamon Apple Sauce,71,669.05,47502.55,5/29/2020,Val Charlon,credit card,82066 Nobel Terrace,shipped
+981,Sea Salt Caramel Brownie,73,900.41,65729.93,5/21/2021,Daria Lyosik,check,153 Logan Lane,shipped
+982,Foam Muscle Roller,4,761.98,3047.92,6/6/2023,Misha Yancey,cash,880 Boyd Trail,delivered
+983,Leek and Potato Soup,60,841.05,50463.0,7/13/2024,Darrick O'Hartnett,check,7 Hoepker Terrace,shipped
+984,Whole Grain Hamburger Buns,48,858.86,41225.28,2/6/2023,Kacy Ethelstone,cash,68456 Rutledge Junction,delivered
+985,Herb Seasoned Couscous,24,658.3,15799.2,3/24/2022,Mellicent Downs,cash,637 Charing Cross Alley,shipped
+986,Educational STEM Kit,12,190.18,2282.16,9/22/2023,Inessa Grebert,check,9668 Aberg Lane,delivered
+987,Fitness Tracker with Heart Rate Monitor,63,313.45,19747.35,1/29/2025,Josi Bernardin,check,18551 Shasta Center,shipped
+988,Reusable Coffee Filter,40,419.86,16794.4,12/18/2021,Flss Lohmeyer,check,43291 Nevada Crossing,pending
+989,Electric Blanket,54,741.88,40061.52,5/13/2021,Olly Charteris,credit card,52 Dwight Junction,pending
+990,LED Christmas Tree Lights,72,486.09,34998.48,2/7/2023,Tailor Luff,cash,8 Quincy Road,shipped
+991,Lentil Vegetable Curry,15,91.92,1378.8,3/20/2023,Robbie Absalom,credit card,047 1st Center,pending
+992,Creamy Tomato Basil Soup,15,614.12,9211.8,4/24/2025,Petey Gatherer,check,04622 Vermont Circle,delivered
+993,Applewood Smoked Bacon,44,1.62,71.28,2/21/2020,Lyssa Bettles,credit card,9555 Upham Plaza,shipped
+994,Digital Food Thermometer,18,205.9,3706.2,3/26/2024,Ichabod Misken,credit card,59420 Rutledge Center,shipped
+995,Honeycrisp Apple Chips,4,4.17,16.68,4/29/2021,Janela Murrells,credit card,20 Waubesa Lane,pending
+996,Yoga Strap,58,199.12,11548.96,5/5/2023,Eleanora Snoding,credit card,891 Kings Road,delivered
+997,Pineapple Teriyaki Chicken Mix,47,774.31,36392.57,1/12/2022,Simonette Abelovitz,credit card,1859 Jana Alley,pending
+998,Compact Electric Kettle,82,367.2,30110.4,10/15/2023,Zsa zsa Carradice,credit card,74912 Grayhawk Alley,shipped
+999,Balsamic Salad Dressing,44,458.59,20177.96,11/25/2021,Nikkie Varnham,cash,46 Shelley Alley,pending
+1000,Poppy Seed Dressing,16,825.19,13203.04,3/5/2022,Chlo Slarke,cash,51 Huxley Circle,delivered
