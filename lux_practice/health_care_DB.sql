@@ -3,6 +3,7 @@ create schema health_care_data;
 drop schema health_care_data;
 
 create table health_care_data (
+	h_id serial primary key,
 	hospital_name VARCHAR(500),
 	nato_phonetic VARCHAR(500),
 	gender VARCHAR(500),
@@ -1025,8 +1026,11 @@ create table patient_data (
 	dob DATE,
 	blood_type VARCHAR(2),
 	phone_number VARCHAR(50),
-	hospital_id INT
+	hospital_id INT,
+	foreign key (hospital_id) references health_care_data (h_id)
 );
+
+drop table patient_data;
 
 insert into patient_data (patient_id, first_name, last_name, gender, age, dob, blood_type, phone_number, hospital_id) values (1, 'Malcolm', 'Goulbourn', 'Male', 47, '12/27/1940', 'A', '731-705-1515', 1);
 insert into patient_data (patient_id, first_name, last_name, gender, age, dob, blood_type, phone_number, hospital_id) values (2, 'Jamesy', 'Rideout', 'Male', 83, '3/15/1979', 'O', '510-367-0049', 2);
@@ -2037,9 +2041,33 @@ select * from patient_data pd
 limit 100;
 
 
+--with cte_name as (
+--	sql queries
+--)
+
+--select * from cte_name;
 
 
+--1. CTE: Find the youngest patient(s) in each hospital
+--Use a CTE to calculate the minimum age per hospital and list the patients who match this age per hospital.
 
+select * from patient_data pd 
+limit 100;
+
+
+--CTE: Count gender distribution per hospital
+--Use a CTE to count how many male and female patients are in each hospital.
+
+with gender_num as (
+	select 
+		hcd.hospital_name,
+		pd.gender,
+		count(pd.gender)
+	from patient_data pd 
+	join health_care_data hcd on pd.patient_id = hcd.h_id
+	group by hcd.hospital_name, pd.gender	
+)
+select * from gender_num;
 
 
 
