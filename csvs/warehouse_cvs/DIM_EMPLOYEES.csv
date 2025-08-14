@@ -1,0 +1,11 @@
+Employee_id,Ful_name,position,Hire_date,Employee_store_id
+1,Employee_1,Stocker,2021-11-25,3
+2,Employee_2,Stocker,2020-11-17,5
+3,Employee_3,Stocker,2016-06-11,3
+4,Employee_4,Cashier,2018-08-18,5
+5,Employee_5,Cashier,2018-11-25,5
+6,Employee_6,Stocker,2020-08-31,2
+7,Employee_7,Cashier,2018-07-02,3
+8,Employee_8,Cashier,2020-04-03,3
+9,Employee_9,Manager,2016-02-23,2
+10,Employee_10,Cashier,2020-11-25,2

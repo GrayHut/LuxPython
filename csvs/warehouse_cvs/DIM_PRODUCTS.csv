@@ -1,0 +1,11 @@
+Product_id,product_name,Category,Brand,price
+1,Product_1,Grocery,BrandA,247.43
+2,Product_2,Grocery,BrandC,390.64
+3,Product_3,Clothing,BrandC,343.83
+4,Product_4,Furniture,BrandA,493.16
+5,Product_5,Electronics,BrandC,329.23
+6,Product_6,Furniture,BrandB,347.02
+7,Product_7,Clothing,BrandB,432.55
+8,Product_8,Electronics,BrandC,391.85
+9,Product_9,Furniture,BrandC,362.96
+10,Product_10,Clothing,BrandB,220.5

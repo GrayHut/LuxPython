@@ -1,0 +1,16 @@
+Movement_id,date_id,product_id,Store_id,Movement_type,Quantity_change
+1,7,9,4,OUT,9
+2,1,3,4,OUT,3
+3,3,6,5,OUT,13
+4,1,1,3,IN,15
+5,9,2,4,OUT,10
+6,1,3,4,IN,9
+7,5,7,1,IN,3
+8,6,3,4,OUT,1
+9,9,10,3,IN,3
+10,9,10,1,IN,18
+11,7,1,1,IN,17
+12,10,2,4,IN,6
+13,9,1,4,OUT,19
+14,7,5,2,OUT,19
+15,8,3,1,OUT,5
